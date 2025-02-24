@@ -1,5 +1,18 @@
-\documentclass[12pt]{article}
+\documentclass[a4paper,12pt]{article}
 \usepackage[chorded]{songs}
+\usepackage{graphicx}
+\usepackage[utf8]{inputenc}
+% \usepackage[
+% % set width and height to a5 width and height + 6mm
+% width=154truemm, height=216truemm,
+% % use any combination of these options to add different cut markings
+% cam, axes, frame, cross,
+% % set the type of TeX renderer you use
+% pdftex,
+% % center the contents
+% center
+% ]{crop}
+
 
 \songcolumns{2}
 % \columnsep=0.4cm
@@ -14,6 +27,7 @@
 
 \setlength{\cbarwidth}{0pt}
 \setlength{\sbarheight}{0pt}
+\setlength{\parindent}{0pt}
 
 %\setlength{\versesep}{0pt}
 %\setlength{\chordsep}{0pt}
@@ -35,127 +49,17 @@
 %	\lineskip=1pt
 %}
 
+\newindex{mainindex}{idxfile}
 \begin{document}
-	Titre
-	\newpage
-	\newpage
-	Test how does is work ?
-	\newpage
-	\begin{songs}{}
-		\beginsong{Il faut que je m’en aille}[by={Graeme Allwright}]
-		\beginverse
-		Le temps est \[Do]loin de nos 20 ans
-		Des coups de \[Fa]poings, des coups de \[Do]sang
-		Mais qu’à cela n’\[Fa]tienne, c’est pas \[Do]fini
-		On peut chan\[Lam]ter quand le \[Fa]verre est \[(Sol7)]bien \[Do]rempli
-		\endverse
-		\beginchorus
-		Buvons en\[Fa]core une dernière \[Sol]fois
-		À l’ami\[Fa]tié, l’a\[Sol]mour, la \[Do]joie
-		On a fê\[Fa]té nos retrou\[Do]vailles
-		Ça m’fait d’la \[Lam]peine, mais il \[Fa]faut que \[Sol]je m’en \[Do]aille
-		\endchorus
-		\beginverse
-		Et souviens-toi de cet été
-		La première fois qu’on s’est saoulé
-		Tu m’as ramené à la maison
-		En chantant, on marchait à reculons
-		\endverse
-		\beginchorus
-		Refrain
-		\endchorus
-		\beginverse
-		Je suis parti changer d’étoile
-		Sur un navire, j’ai mis la voile
-		Pour n’être plus qu’un étranger
-		Ne sachant plus très bien où il allait
-		\endverse
-		\beginchorus
-		Buvons encore une dernière fois
-		À l’amitié, l’amour, la joie
-		On a fêté nos retrouvailles
-		Je m’ennuie pas, mais il faut que je m’en aille
-		\endchorus
-		\beginverse
-		J’t’ai raconté mon mariage
-		À la mairie d’un p’tit village
-		Je rigolais dans mon plastron
-		Quand le maire essayait d’prononcer mon nom
-		\endverse
-		\beginchorus
-		Refrain
-		\endchorus
-		\beginverse
-		J’n’ai pas écrit toutes ces années
-		Et toi aussi, t’es marié
-		T’as trois enfants à faire manger
-		Mais j’en ai cinq, si ça peut te consoler
-		\endverse
-		\endsong
-		
-	\beginsong{Les Copains d’abord}[by={Georges Brassens}]
-	\beginverse
-		Non, ce n’était pas le radeau de la Méduse, ce bateau
-		Qu’on se le dise au fond des ports, dise au fond des ports
-		Il naviguait en pèr’peinard sur la grand-mare des canards
-		Et s’app’lait les Copains d’abord, les Copains d’abord
-		\endverse
-		\beginverse
-		Ses "fluctuat nec mergitur", c’était pas d’la littérature
-		N’en déplaise aux jeteurs de sort, aux jeteurs de sort
-		Son capitaine et ses mat’lots, n’étaient pas des enfants 
-		d’salauds
-		Mais des amis franco de port, des copains d’abord
-			\endverse
-		\beginverse
-		C’étaient pas des amis de luxe, des petits Castor et Pollux
-		Des gens de Sodome et Gomorrhe, Sodome et Gomorrhe
-		C’étaient pas des amis choisis, par Montaigne et La Boétie
-		Sur le ventre ils se tapaient fort, les copains d’abord
-			\endverse
-		\beginverse
-		C’étaient pas des anges non plus, l’Évangile, ils l’avaient pas lu
-		Mais ils s’aimaient toutes voiles dehors toutes voiles dehors
-		Jean, Pierre, Paul et compagnie, c’était leur seule litanie
-		Leur credo, leur confiteor, aux copains d’abord
-			\endverse
-		\beginverse
-		Au moindre coup de Trafalgar, c’est l’amitié qui prenait l’quart
-		C’est elle qui leur montrait le nord, leur montrait le nord
-		Et quand ils étaient en détresse qu’leurs bras lançaient des 
-		S.O.S.
-		On aurait dit des sémaphores, les copains d’abord
-			\endverse
-		\beginverse
-		Au rendez-vous des bons copains, y’avait pas souvent de lapins
-		Quand l’un d’entre eux manquait à bord, c’est qu’il était mort
-		Oui, mais jamais, au grand jamais, son trou dans l’eau n’se 
-		refermait
-		Cent ans après, coquin de sort, il manquait encore
-			\endverse
-		\beginverse
-		Des bateaux j’en ai pris beaucoup mais le seul qui ait tenu le 
-		coup
-		Qui n’ai jamais viré de bord, mais viré de bord
-		Naviguait en père peinard sur la grand-mare des canards
-		Et s’app’lait les Copains d’abord, les Copains d’abord
-		\endverse
-	\endsong
-	\beginsong{À nos souvenirs}[by={Trois Cafés Gourmands}]
-	\beginverse
-	Regardez-\[Sol]nous, à \[Do]quinze ans sur cette \[Ré]photo\\
-	On fait les \[Sol]fous, tous les \[Do]deux sur le même vé\[Ré]lo\\
-	On s'est connus, \[Sol]toi et \[Do]moi bien avant nos \[Ré]mots\\
-	On s'est per\[Sol]dus de \[Do]vue, trop \[Ré]tôt
-	\endverse
+	% \begin{figure}
+	% 	\includegraphics[width=\linewidth]{titre.jpg}
+	% \end{figure}
+	% \newpage
+
+	\showindex[2]{Index alphabétique}{mainindex}
 	
-	\beginchorus
-	À nos souve\[Ré]nirs, à nos es\[Sol]poirs, à la \[Do]vie\\
-	À nos souve\[Ré]nirs, à ces fous \[Sol]rires, à l'in\[Do]fini\\
-	À l'amour, à \[Ré]nos nuits blanches, à nos dé\[Do]lires\\
-	À nos souve\[Sol]nirs
-	\endchorus
-	\endsong
+	\begin{songs}{}
+		\input{paroles.tex}
 	\end{songs}
 \end{document}
 
