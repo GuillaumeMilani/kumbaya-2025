@@ -1,6 +1,8 @@
 {
-  "image": "texlive/texlive",
   "name": "LaTeX",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
   // "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
