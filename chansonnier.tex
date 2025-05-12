@@ -1,5 +1,17 @@
-\documentclass[12pt]{article}
+\documentclass[a4paper,12pt]{article}
 \usepackage[chorded]{songs}
+\usepackage{graphicx}
+% \usepackage[
+% % set width and height to a5 width and height + 6mm
+% width=154truemm, height=216truemm,
+% % use any combination of these options to add different cut markings
+% cam, axes, frame, cross,
+% % set the type of TeX renderer you use
+% pdftex,
+% % center the contents
+% center
+% ]{crop}
+
 
 \songcolumns{2}
 % \columnsep=0.4cm
@@ -35,61 +47,121 @@
 %	\lineskip=1pt
 %}
 
+\newindex{mainindex}{idxfile}
 \begin{document}
-	Titre
+	\begin{figure}
+		\includegraphics[width=\linewidth]{titre.jpg}
+	\end{figure}
 	\newpage
-	\newpage
-	Test how does is work ?
-	\newpage
+
+	\showindex[2]{Index alphabétique}{mainindex}
+	
 	\begin{songs}{}
-		\beginsong{Il faut que je m’en aille}[by={Graeme Allwright}]
+		\beginsong{1987}[by={Calogero (2017)}]
+		
 		\beginverse
-		Le temps est \[Do]loin de nos 20 ans
-		Des coups de \[Fa]poings, des coups de \[Do]sang
-		Mais qu’à cela n’\[Fa]tienne, c’est pas \[Do]fini
-		On peut chan\[Lam]ter quand le \[Fa]verre est \[(Sol7)]bien \[Do]rempli
+		\[D]Tu t'souviens  
+		\[G]Les couleurs sur les baskets  
+		\[Bm]Les crayons dans les cassettes  
+		\[A]Je rembobine
 		\endverse
+		
+		\beginverse
+		Tu t'souviens  
+		Tous ces rêves plein nos disquettes  
+		À Paris c'était les States  
+		1987
+		\endverse
+		
 		\beginchorus
-		Buvons en\[Fa]core une dernière \[Sol]fois
-		À l’ami\[Fa]tié, l’a\[Sol]mour, la \[Do]joie
-		On a fê\[Fa]té nos retrou\[Do]vailles
-		Ça m’fait d’la \[Lam]peine, mais il \[Fa]faut que \[Sol]je m’en \[Do]aille
+		Il \[D]y a certains jours où je reprends mon skate  
+		\[A]Et je vais faire un tour en 1987  
+		\[Bm]Il y a certains jours dans lesquels je me jette  
+		\[F#m]Et je suis de retour en 1987  
+		\[G]Tu sais de tous ces jours y'a rien que je regrette  
+		\[F#m]Mais parfois je retourne en 1987, en 87
 		\endchorus
+		
 		\beginverse
-		Et souviens-toi de cet été
-		La première fois qu’on s’est saoulé
-		Tu m’as ramené à la maison
-		En chantant, on marchait à reculons
+		Tu t'souviens  
+		Les survêts et les houppettes  
+		Sabrina et 7 sur 7  
+		Dans la cuisine c'était rien  
+		Que 12 mois sur la planète  
+		L'URSS, INXS  
+		On chantait I want your sex
 		\endverse
-		\beginchorus
-		Refrain
-		\endchorus
-		\beginverse
-		Je suis parti changer d’étoile
-		Sur un navire, j’ai mis la voile
-		Pour n’être plus qu’un étranger
-		Ne sachant plus très bien où il allait
-		\endverse
-		\beginchorus
-		Buvons encore une dernière fois
-		À l’amitié, l’amour, la joie
-		On a fêté nos retrouvailles
-		Je m’ennuie pas, mais il faut que je m’en aille
-		\endchorus
-		\beginverse
-		J’t’ai raconté mon mariage
-		À la mairie d’un p’tit village
-		Je rigolais dans mon plastron
-		Quand le maire essayait d’prononcer mon nom
-		\endverse
+		
 		\beginchorus
 		Refrain
 		\endchorus
+		
 		\beginverse
-		J’n’ai pas écrit toutes ces années
-		Et toi aussi, t’es marié
-		T’as trois enfants à faire manger
-		Mais j’en ai cinq, si ça peut te consoler
+		Tu verras bien qu'un jour une chanson dans la tête  
+		Tu l'auras à ton tour ton 1987  
+		Tu verras bien qu'un jour une chanson dans la tête  
+		Tu l'auras à ton tour ton 1987  
+		C'est tout ce que je te souhaite  
+		Tu l'auras à ton tour ton 1987  
+		C'est tout ce que je te souhaite  
+		Tu l'auras à ton tour ton 1987  
+		C'est tout ce que je te souhaite  
+		Tu l'auras à ton tour ton 1987  
+		Tu te souviens
+		\endverse
+		
+		\endsong
+		
+		\beginsong{99 Luftballons}[by={Nena (1983)}]
+		\beginverse
+		Hast du etwas Zeit für mich?  
+		Dann singe ich ein Lied für dich  
+		Von 99 Luftballons  
+		Auf ihrem Weg zum Horizont  
+		Denkst du vielleicht gerade an mich  
+		Dann singe ich ein Lied für dich  
+		Von 99 Luftballons  
+		Und dass sowas von sowas kommt
+		\endverse
+		\beginverse
+		99 Luftballons  
+		Auf ihrem Weg zum Horizont  
+		Hielt man für UFOs aus dem All  
+		Darum schickte ein General  
+		Eine Fliegerstaffel hinterher  
+		Alarm zu geben, wenn es so wäre  
+		Dabei waren da am Horizont  
+		Nur 99 Luftballons
+		\endverse
+		\beginverse
+		99 Düsenflieger  
+		Jeder war ein großer Krieger  
+		Hielten sich für Captain Kirk  
+		Das gab ein großes Feuerwerk  
+		Die Nachbarn haben nichts gerafft  
+		Und fühlten sich gleich angemacht  
+		Dabei schoss man am Horizont  
+		Auf 99 Luftballons
+		\endverse
+		\beginverse
+		99 Kriegsminister  
+		Streichholz und Benzinkanister  
+		Hielten sich für schlaue Leute  
+		Witterten schon fette Beute  
+		Riefen Krieg und wollten Macht  
+		Mann, wer hätte das gedacht  
+		Dass es einmal soweit kommt  
+		Wegen 99 Luftballons
+		\endverse
+		\beginverse
+		99 Jahre Krieg  
+		Ließen keinen Platz für Sieger  
+		Kriegsminister gibt es nicht mehr  
+		Und auch keine Düsenflieger  
+		Heute ziehe ich meine Runden  
+		Sehe die Welt in Trümmern liegen  
+		Habe einen Luftballon gefunden  
+		Denke an dich und lasse ihn fliegen
 		\endverse
 		\endsong
 		
