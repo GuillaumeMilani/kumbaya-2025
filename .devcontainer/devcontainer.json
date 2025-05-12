@@ -3,6 +3,10 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
+  "mounts": [
+    // Mount the SSH keys to the container
+    "source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
+  ],
   // "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
