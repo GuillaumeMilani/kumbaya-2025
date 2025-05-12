@@ -2,9 +2,9 @@
 
 ## Calogero (2017)
 
-Tu t'souv(D)iens  
-Les couleurs sur les bask(Bm)ets  
-Les crayons dans les cass(A)ettes  
+Tu t'souv\[D\]iens  
+Les couleurs sur les bask\[Bm\]ets  
+Les crayons dans les cass\[A\]ettes  
 Je rembobine
 
 Tu t'souviens  
@@ -46,14 +46,14 @@ Tu te souviens
 
 ## Nena (1983)
 
-H(Ré)ast du etwas Ze(Mim)it für mich?  
-Dann s(Sol)inge ich ein L(La)ied für dich  
-Von 9(Ré)9 L(Mim)uftballons  
-Auf i(Sol)hrem Weg zum H(La)orizont  
-D(Ré)enkst du vielleicht g(Mim)’rade an mich  
-Dann s(Sol)inge ich ein L(La)ied für dich  
-Von 9(Ré)9 L(Mim)uftballons  
-Und d(Sol)as sowas von s(La)owas kommt
+H\[Ré\]ast du etwas Ze\[Mim\]it für mich?  
+Dann s\[Sol\]inge ich ein L\[La\]ied für dich  
+Von 9\[Ré\]9 L\[Mim\]uftballons  
+Auf i\[Sol\]hrem Weg zum H\[La\]orizont  
+D\[Ré\]enkst du vielleicht g\[Mim\]’rade an mich  
+Dann s\[Sol\]inge ich ein L\[La\]ied für dich  
+Von 9\[Ré\]9 L\[Mim\]uftballons  
+Und d\[Sol\]as sowas von s\[La\]owas kommt
 
 99 Luftballons  
 Auf ihrem Weg zum Horizont  
@@ -210,7 +210,7 @@ Merci beaucoup
 
 # L’agriculteur
 
-Ridan (2003)
+## Ridan (2003)
 
 J'allume mon poste de télé  
 Pour admirer ce qu'il s'y passe  
@@ -280,14 +280,14 @@ Refrain (bis)
 
 ## Jacques Offenbach (1856), Julien Doré (2024)
 
-U(Ré)n crocodile s'en allant à la g(La)uerre  
-D(Mi)isait au revoir à(Mi7) ses petits e(La)nfants  
-T(Ré)raînant ses pieds, ses pieds dans la poussi(La)ère  
-I(Mi)l s'en allait combattre les élép(La7)hants
+U\[Ré\]n crocodile s'en allant à la g\[La\]uerre  
+D\[Mi\]isait au revoir à\[Mi7\] ses petits e\[La\]nfants  
+T\[Ré\]raînant ses pieds, ses pieds dans la poussi\[La\]ère  
+I\[Mi\]l s'en allait combattre les élép\[La7\]hants
 
 	Refrain  
-A(Ré)h' les crocrocros, les crocrocros, les crocod(La7)iles  
-Sur les bords du Nil, ils sont partis, n'en parlons p(Ré)lus  
+A\[Ré\]h' les crocrocros, les crocrocros, les crocod\[La7\]iles  
+Sur les bords du Nil, ils sont partis, n'en parlons p\[Ré\]lus  
 (bis)
 
 Il fredonnait une marche militaire  
@@ -314,12 +314,11 @@ Voulut alors accompagner ce chant.
 
 ## Khaled (1996)
 
-## Capo III
-
-(Mim)Comme s(Do)i je n'exi(Sol)stais p(Ré)as  
-(Mim)Elle es(Do)t passée à côté(Sol) de m(Ré)oi  
-(Mim)Sans un r(Do)egard, r(Sol)eine de S(Ré)aba  
-(Mim)J'ai d(Do)it «Aïcha, prends, tout e(Sol)st pour to(Ré)i.»
+Capo III  
+\[Mim\]Comme s\[Do\]i je n'exi\[Sol\]stais p\[Ré\]as  
+\[Mim\]Elle es\[Do\]t passée à côté\[Sol\] de m\[Ré\]oi  
+\[Mim\]Sans un r\[Do\]egard, r\[Sol\]eine de S\[Ré\]aba  
+\[Mim\]J'ai d\[Do\]it «Aïcha, prends, tout e\[Sol\]st pour to\[Ré\]i.»
 
 Voici les perles, les bijoux   
 Aussi l'or autour de ton cou  
@@ -331,10 +330,10 @@ J'effacerai tes larmes, tes peines
 Rien n'est trop beau pour une si belle, oh\!
 
 Refrain  
-(Mim)Aïch(Do)a, Aïcha, é(Sol)coute-mo(Ré)i  
-(Mim)Aïch(Do)a, Aïcha, t(Sol)’en va pa(Ré)s  
-(Mim)Aïch(Do)a, Aïcha, re(Sol)garde-mo(Ré)i  
-(Mim)Aïch(Do)a, Aïcha, ré(Sol)ponds-mo(Ré)i\!
+\[Mim\]Aïch\[Do\]a, Aïcha, é\[Sol\]coute-mo\[Ré\]i  
+\[Mim\]Aïch\[Do\]a, Aïcha, t\[Sol\]’en va pa\[Ré\]s  
+\[Mim\]Aïch\[Do\]a, Aïcha, re\[Sol\]garde-mo\[Ré\]i  
+\[Mim\]Aïch\[Do\]a, Aïcha, ré\[Sol\]ponds-mo\[Ré\]i\!
 
 Je dirai les mots, les poèmes   
 Je jouerai les musiques du ciel   
@@ -343,14 +342,14 @@ Pour éclairer tes yeux de reine, oh\!
 
 Refrain
 
-(Misus4)E(Lam)lle a dit, « Garde tes tr(Fa)ésors  
-M(Lam)oi, je vaux mieux que tout ça(Fa)  
-(Rém)Des barreaux sont des barreaux, même e(Sol)n or  
-Je veux les m(Misus4)êmes dro(Mi)its que to(Lam)i  
-(Fa)Et du respect pour chaque jo(Rém)ur  
-M(Rém)oi, je ne veux que de l'a(Misus4)mour. »(Mi)
+\[Misus4\]E\[Lam\]lle a dit, « Garde tes tr\[Fa\]ésors  
+M\[Lam\]oi, je vaux mieux que tout ça\[Fa\]  
+\[Rém\]Des barreaux sont des barreaux, même e\[Sol\]n or  
+Je veux les m\[Misus4\]êmes dro\[Mi\]its que to\[Lam\]i  
+\[Fa\]Et du respect pour chaque jo\[Rém\]ur  
+M\[Rém\]oi, je ne veux que de l'a\[Misus4\]mour. »\[Mi\]
 
-(Mim)Comme s(Do)i je n'exi(Sol)stais p(Ré)as  
+\[Mim\]Comme s\[Do\]i je n'exi\[Sol\]stais p\[Ré\]as  
 Elle est passée à côté de moi  
 Sans un regard, reine de Saba   
 J'ai dit « Aïcha, prends, tout est pour toi. »
@@ -361,8 +360,8 @@ Refrain
 
 ## Barbara (1970)
 
-U(Ré)n beau jour ou peut-être u(La)ne nuit  
-P(Mim)rès d'un lac je m'étais endormie  
+U\[Ré\]n beau jour ou peut-être u\[La\]ne nuit  
+P\[Mim\]rès d'un lac je m'étais endormie  
 Quand soudain semblant crever le ciel   
 Et venant de nulle part  
 Surgit un aigle noir
@@ -465,10 +464,10 @@ Allô le monde, le monde
 
 ## Traditionnel
 
-Un jo(Do)ur la troupe campa, A A(Sol) A   
-La pluie se mit à tomber, B(Sol7) B B(Do)  
-L'orage a tout cassé, C C C(Sol)   
-Faillit nous inond(Do)er, A B(Sol) C D(Do) 
+Un jo\[Do\]ur la troupe campa, A A\[Sol\] A   
+La pluie se mit à tomber, B\[Sol7\] B B\[Do\]  
+L'orage a tout cassé, C C C\[Sol\]   
+Faillit nous inond\[Do\]er, A B\[Sol\] C D\[Do\] 
 
 Le chef s'est écrié, E E E   
 A son adjoint Joseph, F F F   
@@ -606,14 +605,14 @@ Il n'y a que d'l'amour sincère
 
 ## Capo IX
 
-Dans le po(Lam)rt d'Amsterdam, y a des ma(Mim)rins qui chantent   
-Les rêv(Fa)es qui les hantent, au larg(Mim7)e d'Amsterdam  
-Dans le po(Lam)rt d'Amsterdam, y a des mar(Mim)ins qui dorment   
-Comme de(Fa)s orif(Mi7)lammes le long de(Lam)s berges mornes   
-Dans le po(Do)rt d'Amsterdam, y a des mar(Sol7)ins qui meurent  
-Pleins de biè(Lam)re et de drames aux prem(Mi7)ières lueurs  
-Mais dans le po(Fa)rt d'Amsterdam, y a des mar(Mim)ins qui naissent   
-Dans la ch(Fa)aleur épa(Mi7)isse des langu(Lam)eurs océanes
+Dans le po\[Lam\]rt d'Amsterdam, y a des ma\[Mim\]rins qui chantent   
+Les rêv\[Fa\]es qui les hantent, au larg\[Mim7\]e d'Amsterdam  
+Dans le po\[Lam\]rt d'Amsterdam, y a des mar\[Mim\]ins qui dorment   
+Comme de\[Fa\]s orif\[Mi7\]lammes le long de\[Lam\]s berges mornes   
+Dans le po\[Do\]rt d'Amsterdam, y a des mar\[Sol7\]ins qui meurent  
+Pleins de biè\[Lam\]re et de drames aux prem\[Mi7\]ières lueurs  
+Mais dans le po\[Fa\]rt d'Amsterdam, y a des mar\[Mim\]ins qui naissent   
+Dans la ch\[Fa\]aleur épa\[Mi7\]isse des langu\[Lam\]eurs océanes
 
 Dans le port d'Amsterdam, y a des marins qui mangent   
 Sur des nappes trop blanches des poissons ruisselants  
@@ -641,7 +640,7 @@ Qui leur donnent leur joli corps, qui leur donnent leur vertu
 Pour une pièce en or, et quand ils ont bien bu  
 Se plantent le nez au ciel, se mouchent dans les étoiles   
 Et ils pissent comme je pleure sur les femmes infidèles   
-Dans le po(lam)rt d'Amsterdam, dans le po(Mi7)rt d'Amsterdam(Fa-Mi7-Lam).
+Dans le po\[Lam\]rt d'Amsterdam, dans le po\[Mi7\]rt d'Amsterdam\[Fa-Mi7-Lam\].
 
 # Andalouse
 
@@ -758,16 +757,16 @@ Avec toi, moi, j'y crois
 
 ## Indochine (1982)
 
-É(Mim)garé dans la v(Do)allée infernale  
-Le h(Sol)éros s'appelle B(Lam)ob Morane   
-À(Mim) la recherche de l'O(Do)mbre Jaune   
-Le b(Sol)andit s'appelle Mister K(Lam)ali Jones   
-A(Mim)vec l'ami Bill B(Do)allantine   
-S(Sol)auvé de justesse des c(Lam)rocodiles  
-S(Mim)top au trafic des C(Do)araïbes   
-E(Sol)scale dans l'opération N(Lam)adawieb 
+É\[Mim\]garé dans la v\[Do\]allée infernale  
+Le h\[Sol\]éros s'appelle B\[Lam\]ob Morane   
+À\[Mim\] la recherche de l'O\[Do\]mbre Jaune   
+Le b\[Sol\]andit s'appelle Mister K\[Lam\]ali Jones   
+A\[Mim\]vec l'ami Bill B\[Do\]allantine   
+S\[Sol\]auvé de justesse des c\[Lam\]rocodiles  
+S\[Mim\]top au trafic des C\[Do\]araïbes   
+E\[Sol\]scale dans l'opération N\[Lam\]adawieb 
 
-L(Mim)a lalalaaa la la(Do)lalaa, L(Sol)a lalala la l(Lam)ala-lalaa (bis)
+L\[Mim\]a lalalaaa la la\[Do\]lalaa, L\[Sol\]a lalala la l\[Lam\]ala-lalaa (bis)
 
 Le cœur tendre dans le lit de Miss Clark   
 Prisonnière du Sultan de Jarawak   
@@ -781,12 +780,12 @@ Le Maharadjah en répondra
 La lalalaaa la lalalaa, La lalala la lala-lalaa (bis)
 
 	Refrain  
-E(Lam)t soudain surgit f(Mim)ace au vent  
-Le v(Sol)rai héros de t(Ré)ous les temps  
-B(Lam)ob Morane contre t(Mim)out chacal  
-L'av(Sol)enturier contre t(Ré)out guerrier  
-B(Lam)ob Morane contre t(Mim)out chacal  
-L'av(Sol)enturier contre t(Ré)out guerrier
+E\[Lam\]t soudain surgit f\[Mim\]ace au vent  
+Le v\[Sol\]rai héros de t\[Ré\]ous les temps  
+B\[Lam\]ob Morane contre t\[Mim\]out chacal  
+L'av\[Sol\]enturier contre t\[Ré\]out guerrier  
+B\[Lam\]ob Morane contre t\[Mim\]out chacal  
+L'av\[Sol\]enturier contre t\[Ré\]out guerrier
 
 Dérivant à bord du Sampang  
 L'aventure au parfum d'Ylalang  
@@ -858,10 +857,10 @@ Jʼmʼendors sur la roche de Roche DʼOr
 
 ## Capo V
 
-Notre v(Do)ieille terre est une étoile  
-Où toi aussi tu b(Rém)rilles un p(Sol)eu  
-Je viens te c(Rém)hanter l(Sol7)a ball(Do)ade  
-La balla(Rém)de des g(Sol7)ens heur(Do)eux  
+Notre v\[Do\]ieille terre est une étoile  
+Où toi aussi tu b\[Rém\]rilles un p\[Sol\]eu  
+Je viens te c\[Rém\]hanter l\[Sol7\]a ball\[Do\]ade  
+La balla\[Rém\]de des g\[Sol7\]ens heur\[Do\]eux  
 (bis 2 der)
 
 Tu n'as pas de titre ni de grade  
@@ -910,10 +909,10 @@ La ballade des gens heureux.
 
 ## Renaud (1991)
 
-J'ai voulu plante(Sol)r un o(Do)range(Sol)r  
-Là où la chans(Mim)on n'en v(Lam)erra jam(Ré)ais  
-Là où les (Sol)arbres n'ont jamais donn(Mim)é  
-Que d(Do)es gren(Sol)ades d(Do)égoupill(Sol)ées
+J'ai voulu plante\[Sol\]r un o\[Do\]range\[Sol\]r  
+Là où la chans\[Mim\]on n'en v\[Lam\]erra jam\[Ré\]ais  
+Là où les \[Sol\]arbres n'ont jamais donn\[Mim\]é  
+Que d\[Do\]es gren\[Sol\]ades d\[Do\]égoupill\[Sol\]ées
 
 Jusqu'à Derry ma bien aimée  
 Sur mon bateau j'ai navigué  
@@ -992,10 +991,10 @@ Je vais dans le corridor
 
 ## Capo V
 
-Una matt(Lam)ina mi son svegl(Lam)iato  
-O bella c(Lam)iao, bella ciao, bella c(Mi7)iao ciao ciao  
-Una matt(Rém)ina mi son svegl(Lam)iato  
-Eo ho trov(Mi7)ato l'invas(Lam)or
+Una matt\[Lam\]ina mi son svegl\[Lam\]iato  
+O bella c\[Lam\]iao, bella ciao, bella c\[Mi7\]iao ciao ciao  
+Una matt\[Rém\]ina mi son svegl\[Lam\]iato  
+Eo ho trov\[Mi7\]ato l'invas\[Lam\]or
 
 O partigiano portami via  
 O bella ciao, bella ciao, bella ciao ciao ciao  
@@ -1026,10 +1025,10 @@ Morto per la libertà
 
 ## Traditionnel
 
-E(Do)coute la prière  
-Qui du camp monte vers To(Sol7)i  
-Vers la grande lumièr(Do)e  
-V(Rém)ers la pai(Sol7)x et vers la jo(Do)ie  
+E\[Do\]coute la prière  
+Qui du camp monte vers To\[Sol7\]i  
+Vers la grande lumièr\[Do\]e  
+V\[Rém\]ers la pai\[Sol7\]x et vers la jo\[Do\]ie  
 (bis 2 der)
 
 Illumine la route  
@@ -1162,16 +1161,16 @@ D'aller là-bas
 
 ## Bob Dylan (1962)
 
-H(Ré)ow many r(Sol)oads must a m(La)an walk d(Ré)own  
-Before you c(Sol)all him a m(Ré)an?  
-H(Ré)ow many s(Sol)eas must a w(La)hite dove s(Ré)ail  
-Before she s(Sol)leeps in the s(La)and?  
-Yes, and h(Ré)ow many t(Sol)imes must the c(La)annonballs f(Ré)ly  
-Before they're f(Sol)orever b(Ré)anned?
+H\[Ré\]ow many r\[Sol\]oads must a m\[La\]an walk d\[Ré\]own  
+Before you c\[Sol\]all him a m\[Ré\]an?  
+H\[Ré\]ow many s\[Sol\]eas must a w\[La\]hite dove s\[Ré\]ail  
+Before she s\[Sol\]leeps in the s\[La\]and?  
+Yes, and h\[Ré\]ow many t\[Sol\]imes must the c\[La\]annonballs f\[Ré\]ly  
+Before they're f\[Sol\]orever b\[Ré\]anned?
 
 Refrain  
-T(Sol)he answer, m(La)y friend, i(Ré)s blowin' in the w(Sol)ind  
-The answer is b(La)lowin' in the w(Ré)ind
+T\[Sol\]he answer, m\[La\]y friend, i\[Ré\]s blowin' in the w\[Sol\]ind  
+The answer is b\[La\]lowin' in the w\[Ré\]ind
 
 Yes, and how many years must a mountain exist  
 Before it is washed to the sea?  
@@ -1251,25 +1250,25 @@ Merci beaucoup
 
 ## Capo III
 
-J(Rém)e vous parle d'un temps  
+J\[Rém\]e vous parle d'un temps  
 Que les moins de vingt ans  
-Ne peuvent pas conn(Lam)aître  
-Montmartre en ce temps-l(Rém)à  
-Accrochait ses lil(Lam)as  
+Ne peuvent pas conn\[Lam\]aître  
+Montmartre en ce temps-l\[Rém\]à  
+Accrochait ses lil\[Lam\]as  
 Jusque sous nos fenêtres  
-Et si l'humble g(Rém)arni  
+Et si l'humble g\[Rém\]arni  
 Qui nous servait de nid  
-Ne payait pas de min(Lam)e  
-C'est là qu'on s'est c(Rém)onnu  
-Moi qui criait f(Mi7)amine  
-Et toi qui posais nu(Lam)e
+Ne payait pas de min\[Lam\]e  
+C'est là qu'on s'est c\[Rém\]onnu  
+Moi qui criait f\[Mi7\]amine  
+Et toi qui posais nu\[Lam\]e
 
 	Refrain  
-La boh(Rém)ème, la boh(Lam)ème  
-Ça voulait d(Rém)ire  
-On e(Mi7)st heur(Lam)eux  
-La boh(Rém)ème, la boh(Lam)ème  
-Nous ne mang(Rém)ions qu'un j(Mi7)our sur d(Lam)eux
+La boh\[Rém\]ème, la boh\[Lam\]ème  
+Ça voulait d\[Rém\]ire  
+On e\[Mi7\]st heur\[Lam\]eux  
+La boh\[Rém\]ème, la boh\[Lam\]ème  
+Nous ne mang\[Rém\]ions qu'un j\[Mi7\]our sur d\[Lam\]eux
 
 Dans les cafés voisins  
 Nous étions quelques-uns  
@@ -1335,14 +1334,14 @@ La bohème, la bohème
 
 ## Hugues Aufray (1966)
 
-L(Mi)e Bon Dieu s'énervait dans son at(La)elier:  
-« Ça fa(Mi)it déjà trois ans que j'ai pla(Si7)nté cet arbre.  
-Et j'a(Mi)i beau l'arroser à lon(La)gueur de journées,  
-Il pousse en(Mi)core moins vit(Si7)'que ma bar(Mi)be. » Si7)
+L\[Mi\]e Bon Dieu s'énervait dans son at\[La\]elier:  
+« Ça fa\[Mi\]it déjà trois ans que j'ai pla\[Si7\]nté cet arbre.  
+Et j'a\[Mi\]i beau l'arroser à lon\[La\]gueur de journées,  
+Il pousse en\[Mi\]core moins vit\[Si7\]'que ma bar\[Mi\]be. » Si7)
 
 	Refrain  
-Pour faire un a(Mi)rbre, Mon D(La)ieu que c'est long  
-Pour faire un a(Mi)rbre, Mon D(Si7)ieu que c'est l(Mi)ong  
+Pour faire un a\[Mi\]rbre, Mon D\[La\]ieu que c'est long  
+Pour faire un a\[Mi\]rbre, Mon D\[Si7\]ieu que c'est l\[Mi\]ong  
 (Bis)
 
 Le Bon Dieu s'énervait dans son atelier:  
@@ -1665,16 +1664,16 @@ Alors je clous les portes et j'reprends du café
 ## Capo II
 
 Refrain 1  
-C(Lam)'est l'hiver qui frappe à notre p(Mim)orte  
-Mes amis, allumons un bon f(Lam)eu  
-C'est hiv(Do)er que le d(Sol)iable l'emp(Lam)orte  
-M(Rém)es am(Lam)is ce s(Mi)oir oublions-l(Lam)e  
+C\[Lam\]'est l'hiver qui frappe à notre p\[Mim\]orte  
+Mes amis, allumons un bon f\[Lam\]eu  
+C'est hiv\[Do\]er que le d\[Sol\]iable l'emp\[Lam\]orte  
+M\[Rém\]es am\[Lam\]is ce s\[Mi\]oir oublions-l\[Lam\]e  
 (bis 2 der)
 
-B(La)abouchka apporte les pains d(Ré)'orge  
-C(Mi)e qu'il y a de bon dans la m(La)aison   
-L(La)a vodka qui brûle un peu la g(Ré)orge  
-M(Mi)ais qui nous laisse le cœur plein de chans(La)ons  
+B\[La\]abouchka apporte les pains d\[Ré\]'orge  
+C\[Mi\]e qu'il y a de bon dans la m\[La\]aison   
+L\[La\]a vodka qui brûle un peu la g\[Ré\]orge  
+M\[Mi\]ais qui nous laisse le cœur plein de chans\[La\]ons  
 (bis 2 der)
 
 	  
@@ -1695,7 +1694,7 @@ Tous les loups et les vilains oiseaux
 Pétrouchka, prends ta balalaika   
 Et joue-moi un air à ta façon  
 Joue d'abord les bateliers de la Volga   
-E(Mi)t quand tu auras fini nous danserons
+E\[Mi\]t quand tu auras fini nous danserons
 
 Refrain 1
 
@@ -1747,10 +1746,10 @@ Toute la vie
 
 ## Capo I
 
-Dis-m(Mim)oi, Céline, les années ont passé  
-Pourquoi n'as-tu jamais pensé à t(Lam)e marier  
-(Ré)De tout's mes soeurs qui viv(Mim)aient ici  
-Tu es l(Lam)a seule sans mar(Rém)i.
+Dis-m\[Mim\]oi, Céline, les années ont passé  
+Pourquoi n'as-tu jamais pensé à t\[Lam\]e marier  
+\[Ré\]De tout's mes soeurs qui viv\[Mim\]aient ici  
+Tu es l\[Lam\]a seule sans mar\[Rém\]i.
 
 	Refrain  
 Non, non, non, ne rougis pas, non, ne rougis pas  
@@ -1785,18 +1784,18 @@ Nous resterons toujours près de toi.
 
 ## Capo II
 
-C(Sol)endrillon pour s(Ré)es vingt ans  
-Est l(Mim)a plus jolie d(Do)es enfants  
-Son b(Sol)el amant, le p(Ré)rince charmant  
-L(Mim)a prend sur son c(Do)heval blanc  
-Elle o(Ré)ublie le t(Sol)emps  
-Dans s(Ré)on palais d'arg(Mim)ent  
-Pour n(Lam)e pas voir qu'un nouveau jour se lève  
-Elle f(Do)erme les yeux et dans ses rêves
+C\[Sol\]endrillon pour s\[Ré\]es vingt ans  
+Est l\[Mim\]a plus jolie d\[Do\]es enfants  
+Son b\[Sol\]el amant, le p\[Ré\]rince charmant  
+L\[Mim\]a prend sur son c\[Do\]heval blanc  
+Elle o\[Ré\]ublie le t\[Sol\]emps  
+Dans s\[Ré\]on palais d'arg\[Mim\]ent  
+Pour n\[Lam\]e pas voir qu'un nouveau jour se lève  
+Elle f\[Do\]erme les yeux et dans ses rêves
 
 Refrain  
-Elle p(Sol)art (Ré) (Mim)  
-(Do)Jolie petite hist(Sol)oire (Ré) (Mim)
+Elle p\[Sol\]art \[Ré\] \[Mim\]  
+\[Do\]Jolie petite hist\[Sol\]oire \[Ré\] \[Mim\]
 
 Cendrillon pour ses trente ans  
 Est la plus triste des mamans  
@@ -1834,16 +1833,16 @@ Tes anges n'aiment pas devenir vieux
 
 ## Capo IV
 
-Je m'(Do)baladais sur l'a(Mi7)venue,   
-Le cœ(Lam)ur ouvert à l'in(Do7)connu   
-J'av(Fa)ais envie de dir(Do)e bonjour à n'i(Ré7)mporte qu(Sol)i,   
-N'imp(Do)orte qui et ce(Mi7) fut toi, et je t(Lam)'ai dit n'im(Do7)porte quoi  
-Il s(Fa)uffisait de te(Do) parler pour t(Ré)'app(Sol7)rivois(Do)er
+Je m'\[Do\]baladais sur l'a\[Mi7\]venue,   
+Le cœ\[Lam\]ur ouvert à l'in\[Do7\]connu   
+J'av\[Fa\]ais envie de dir\[Do\]e bonjour à n'i\[Ré7\]mporte qu\[Sol\]i,   
+N'imp\[Do\]orte qui et ce\[Mi7\] fut toi, et je t\[Lam\]'ai dit n'im\[Do7\]porte quoi  
+Il s\[Fa\]uffisait de te\[Do\] parler pour t\[Ré\]'app\[Sol7\]rivois\[Do\]er
 
 	Refrain  
-A(Do)ux C(Mi7)hamps-Elysé(Lam)es(Do7), a(Fa)ux Ch(Do)amps-Elysé(Ré7)es(Sol)   
-A(Do)u soleil, s(Mi7)ous la plus à(Lam) midi ou à(Do7) minuit  
-I(Fa)l y a tout c’que vo(Do)us voulez aux C(Sol)hamps(Sol7)-Elysé(Do)es.
+A\[Do\]ux C\[Mi7\]hamps-Elysé\[Lam\]es\[Do7\], a\[Fa\]ux Ch\[Do\]amps-Elysé\[Ré7\]es\[Sol\]   
+A\[Do\]u soleil, s\[Mi7\]ous la plus à\[Lam\] midi ou à\[Do7\] minuit  
+I\[Fa\]l y a tout c’que vo\[Do\]us voulez aux C\[Sol\]hamps\[Sol7\]-Elysé\[Do\]es.
 
 Tu m'as dit : « J'ai rendez-vous  
 Dans un sous-soi avec des fous  
@@ -1864,24 +1863,24 @@ Tous les oiseaux du point du jour chantent l'amour
 
 ## Capo II
 
-E(Lam)lle est à toi cette(Mi7) chanson,   
-Toi l'Auvergnat qui san(Lam)s façon,  
-M'as donné quatre bo(Mi7)uts de bois,  
-Quand da(Lam)ns ma vie il f(Sol7)aisait fro(Do)id.(Mi7)  
-T(Lam)oi qui m'as donné d(Mi7)u feu quand  
-Les croquantes et l(Lam)es croquants,  
-Tous les gens bien i(Mi7)ntentionnés  
-M(Lam)'avaient fermé la p(Sol7)orte au n(Do)ez.  
-C(Do7)e n'était r(Fa)ien qu(Sol7)'un peu de b(Do)ois,  
-M(Lam)ais il m'a(Rém)vait c(Mi7)hauffé le c(Lam)orps  
-E(Rém)t dans mon âme il brûle e(Lam)ncore,  
-A(Fa) la manière d'(Rém)un feu de j(Mi7)oie.
+E\[Lam\]lle est à toi cette\[Mi7\] chanson,   
+Toi l'Auvergnat qui san\[Lam\]s façon,  
+M'as donné quatre bo\[Mi7\]uts de bois,  
+Quand da\[Lam\]ns ma vie il f\[Sol7\]aisait fro\[Do\]id.\[Mi7\]  
+T\[Lam\]oi qui m'as donné d\[Mi7\]u feu quand  
+Les croquantes et l\[Lam\]es croquants,  
+Tous les gens bien i\[Mi7\]ntentionnés  
+M\[Lam\]'avaient fermé la p\[Sol7\]orte au n\[Do\]ez.  
+C\[Do7\]e n'était r\[Fa\]ien qu\[Sol7\]'un peu de b\[Do\]ois,  
+M\[Lam\]ais il m'a\[Rém\]vait c\[Mi7\]hauffé le c\[Lam\]orps  
+E\[Rém\]t dans mon âme il brûle e\[Lam\]ncore,  
+A\[Fa\] la manière d'\[Rém\]un feu de j\[Mi7\]oie.
 
 	Refrain  
-T(Lam)oi l'Auvergnat quand t(Mi7)u mourras,  
-Quand le croqu'mort t'em(Lam)portera,  
-Qu'il te conduise(Ré), à travers ci(Sol)el,  
-A(Fa)u Père E(Mi7)terne(Lam)l.
+T\[Lam\]oi l'Auvergnat quand t\[Mi7\]u mourras,  
+Quand le croqu'mort t'em\[Lam\]portera,  
+Qu'il te conduise\[Ré\], à travers ci\[Sol\]el,  
+A\[Fa\]u Père E\[Mi7\]terne\[Lam\]l.
 
 Elle est à toi cette chanson,   
 Toi l'hôtesse qui sans façon  
@@ -2054,12 +2053,12 @@ Tes drôles de poèmes et viens avec moi
 
 ## Johann Esser (1933)
 
-L(Lam)oin vers l’infini s’étendent l(Rém)es grands p(Lam)rés m(Mi)arécag(Lam)eux (Sol)  
-P(Do)as un seul oiseau ne chante d(Rém)ans les a(Lam)rbres s(Mi)ecs et c(Lam)reux (Sol)
+L\[Lam\]oin vers l’infini s’étendent l\[Rém\]es grands p\[Lam\]rés m\[Mi\]arécag\[Lam\]eux \[Sol\]  
+P\[Do\]as un seul oiseau ne chante d\[Rém\]ans les a\[Lam\]rbres s\[Mi\]ecs et c\[Lam\]reux \[Sol\]
 
 Refrain  
-Ô t(Do)erre de détr(Sol7)esse, où n(Lam)ous devons sans c(Mi)esse  
-Pioch(Lam)er, pioch(Mi), pioch(Lam)er
+Ô t\[Do\]erre de détr\[Sol7\]esse, où n\[Lam\]ous devons sans c\[Mi\]esse  
+Pioch\[Lam\]er, pioch\[Mi\], pioch\[Lam\]er
 
 Dans ce camp morne et sauvage, entouré de murs de fer  
 Il nous semble vivre en cage au milieu d’un grand désert
@@ -2122,11 +2121,11 @@ Tadalalala, tadalala
 
 ## Daniel Balavoine (1978)
 
-J(La)e m'présente je m'appelle Henri  
-J(La)'voudrais bien réussir ma vie, être aim(Mi)é  
-Etre b(Ré)eau, gagner de l'argent  
-Puis surt(Rém)out être intelligent  
-Mais pour t(La)out ça il f(Lam)audrait que je bosse à plein t(Ré)emps
+J\[La\]e m'présente je m'appelle Henri  
+J\[La\]'voudrais bien réussir ma vie, être aim\[Mi\]é  
+Etre b\[Ré\]eau, gagner de l'argent  
+Puis surt\[Rém\]out être intelligent  
+Mais pour t\[La\]out ça il f\[Lam\]audrait que je bosse à plein t\[Ré\]emps
 
 Je suis chanteur, je chante pour mes copains  
 J'veux faire des tubes et que ça tourne bien, tourne bien  
@@ -2135,9 +2134,9 @@ Un air gai, chic et entraînant
 Pour faire danser dans les soirées de Monsieur Durand
 
 	Refrain  
-Et partout dans la r(Ré)ue j'veux qu'on parle de m(Fa\#m)oi  
-Que les filles soient n(Ré)ues qu'elles se jettent sur m(Fa\#)oi  
-Qu'elles m'admirent qu'elles me t(Dodim7)uent  
+Et partout dans la r\[Ré\]ue j'veux qu'on parle de m\[Fa\#m\]oi  
+Que les filles soient n\[Ré\]ues qu'elles se jettent sur m\[Fa\#\]oi  
+Qu'elles m'admirent qu'elles me t\[Dodim7\]uent  
 Qu'elles s'arrachent ma vertu  
 Pour les anciennes de l'école devenir une idole  
 Je veux que toutes les nuits essoufflées dans leur lit  
@@ -2171,13 +2170,13 @@ J'veux mourir malheureux.
 
 ## Les 4 Barbus (1956)
 
-C(Do)hevaliers de la table ronde  
-Goûtons vo(Sol7)ir si le vin est b(Do)on  
+C\[Do\]hevaliers de la table ronde  
+Goûtons vo\[Sol7\]ir si le vin est b\[Do\]on  
 (bis)
 
-Goûtons vo(Fa)ir, oui, oui, oui  
-Goûtons vo(Do)ir, non, non, non  
-Goûtons vo(Sol7)ir si le vin est b(Do)on  
+Goûtons vo\[Fa\]ir, oui, oui, oui  
+Goûtons vo\[Do\]ir, non, non, non  
+Goûtons vo\[Sol7\]ir si le vin est b\[Do\]on  
 (bis) (reprendre la dernière phrase du couplet)
 
 S'il est bon, s'il est agréable  
@@ -2216,15 +2215,15 @@ Ici gît le roi des buveurs
 
 ## Traditionnel
 
-S(Mi)eul sur la steppe ar(Lam)ide  
-C'est ains(Mi)i que je vais, vagab(Lam)ond marchant toujours  
-T(Rém)ous mes paniers sont v(Lam)ides  
-Et mon c(Mi)œur depuis longtemps déj(Lam)à est sans amour  
+S\[Mi\]eul sur la steppe ar\[Lam\]ide  
+C'est ains\[Mi\]i que je vais, vagab\[Lam\]ond marchant toujours  
+T\[Rém\]ous mes paniers sont v\[Lam\]ides  
+Et mon c\[Mi\]œur depuis longtemps déj\[Lam\]à est sans amour  
 (bis 2 der)
 
 Refrain  
-Héia héia hé la la l(Mi)a la la la l(Lam)a la la la (bis)  
-La la la l(Rém)a… (Lam)(Mi)(Lam) (bis)
+Héia héia hé la la l\[Mi\]a la la la l\[Lam\]a la la la (bis)  
+La la la l\[Rém\]a… \[Lam\]\[Mi\]\[Lam\] (bis)
 
 Je n'ai plus rien à vendre  
 Ni mouchoir, ni collier, ni ruban, je n'ai plus rien  
@@ -2254,18 +2253,18 @@ Conte-lui mon histoire et qu'elle ait pitié de moi
 
 ## Capo III
 
-A(Sol)h, tu vois comme t(Si7)out se mêle  
-Et du c(Mim)œur à tes lèvres, je dev(Do)iens un casse-tête  
-Ton r(Sol)ire me crie, de t(Si7)e lâcher  
-Avant d(Mim)e perdre prise et d(Do)'abandonner  
-Car j(Sol)e ne t'en demanderai jam(Si7)ais autant  
-Déjà q(Mim)ue tu me traites, comme u(Do)n grand enfant  
-Et nous n(Sol)'avons plus rien, à(Si7) risquer  
-À part n(Mim)os vies qu'on laisse d(Do)e côté
+A\[Sol\]h, tu vois comme t\[Si7\]out se mêle  
+Et du c\[Mim\]œur à tes lèvres, je dev\[Do\]iens un casse-tête  
+Ton r\[Sol\]ire me crie, de t\[Si7\]e lâcher  
+Avant d\[Mim\]e perdre prise et d\[Do\]'abandonner  
+Car j\[Sol\]e ne t'en demanderai jam\[Si7\]ais autant  
+Déjà q\[Mim\]ue tu me traites, comme u\[Do\]n grand enfant  
+Et nous n\[Sol\]'avons plus rien, à\[Si7\] risquer  
+À part n\[Mim\]os vies qu'on laisse d\[Do\]e côté
 
 Refrain  
-Et il m(Do)'aime enc(Sol)ore, et moi j(Do)e t'aime un peu plus f(Sol)ort  
-Mais il m(Do)'aime enc(Sol)ore, et moi j(Do)e t'aime un peu plus f(Sol)ort
+Et il m\[Do\]'aime enc\[Sol\]ore, et moi j\[Do\]e t'aime un peu plus f\[Sol\]ort  
+Mais il m\[Do\]'aime enc\[Sol\]ore, et moi j\[Do\]e t'aime un peu plus f\[Sol\]ort
 
 S'en est assez de ces dédoublements  
 C'est plus dur à faire, qu'autrement  
@@ -2329,14 +2328,14 @@ J'ai bien trop d'ire en moi et n'ose vous le dire
 
 ## Georges Brassens (1965)
 
-Non ce n'é(Do))tait pas le radeau   
+Non ce n'é\[Do\])tait pas le radeau   
 De la Méduse ce bateau  
-Qu'on se le d(Ré7)ise au fond des ports  
+Qu'on se le d\[Ré7\]ise au fond des ports  
 Dise au fond des ports  
-Il navig(Fa)uait en père peinard  
-Sur la grand' ma(Mi)are des canards  
-Et s'appelait l(Lam)es Copains d'ab(Ré7)ord  
-Les Cop(Sol)ains d'ab(Do)ord(Sol)(Do)
+Il navig\[Fa\]uait en père peinard  
+Sur la grand' ma\[Mi\]are des canards  
+Et s'appelait l\[Lam\]es Copains d'ab\[Ré7\]ord  
+Les Cop\[Sol\]ains d'ab\[Do\]ord\[Sol\]\[Do\]
 
 Ses « fluctuat nec mergitur »  
 C'était pas d' la littérature  
@@ -2408,19 +2407,19 @@ Les Copains d'abord
 ## Capo II
 
 	Refrain  
-Au no(Sol)rd, c(Ré)'étaient les coro(Sol)ns,  
-La te(Ré)rre, c'était le charb(Mim)on  
-Le ci(Do)el, c'était l'h(Ré)oriz(Sol)on,  
-Les h(Ré)ommes, d(Si7)es mineurs de fo(Mim)nd
+Au no\[Sol\]rd, c\[Ré\]'étaient les coro\[Sol\]ns,  
+La te\[Ré\]rre, c'était le charb\[Mim\]on  
+Le ci\[Do\]el, c'était l'h\[Ré\]oriz\[Sol\]on,  
+Les h\[Ré\]ommes, d\[Si7\]es mineurs de fo\[Mim\]nd
 
-Nos fen(Mim)êtres donnaient sur des f'nêtres sembl(Ré)ables,  
-Et la pluie mouillait mon c(Mim)artable  
-Et mon père en rentrant avait des yeux si b(Ré)leus,  
-Que je croyais voir le ciel b(Sol)leu  
-J'apprenais mes leçons la joue contre son b(Ré)ras,  
-Je crois qu'il était f(Si7)ier de m(Mim)oi  
-Il était généreux comme ceux du pa(Ré)ys,  
-Et je lui dois ce que je su(Si7)is.
+Nos fen\[Mim\]êtres donnaient sur des f'nêtres sembl\[Ré\]ables,  
+Et la pluie mouillait mon c\[Mim\]artable  
+Et mon père en rentrant avait des yeux si b\[Ré\]leus,  
+Que je croyais voir le ciel b\[Sol\]leu  
+J'apprenais mes leçons la joue contre son b\[Ré\]ras,  
+Je crois qu'il était f\[Si7\]ier de m\[Mim\]oi  
+Il était généreux comme ceux du pa\[Ré\]ys,  
+Et je lui dois ce que je su\[Si7\]is.
 
 Et c'était mon enfance et elle était heureuse,  
 Dans la buée des lessiveuses  
@@ -2444,14 +2443,14 @@ C'est avec eux que j'ai compris.
 
 ## Marc Legrand (1897), Alain Souchon (2011)
 
-La nuit e(Do)st limpide, l'étang est sans ride  
-Dans le ciel splendide luit le c(Sol)roissant d(Do)'or  
-O(Do)rme chêne ou tremble, nul arbre ne tremble  
-Au loin le bois semble un g(Sol)éant qui d(Do)ort  
-Chien ni loup ne q(Fa)uitte sa niche o(Sol)u son g(Do)îte  
-Aucun bruit n'ag(Fa)ite la terre a(Sol)u repos  
-Alors d(Do)ans la v(Fa)ase, ouvrant e(Sol)n ext(Do)ase  
-Leurs yeux d(Lam)e top(Rém)aze, chantent l(Sol)es crap(Do)auds.
+La nuit e\[Do\]st limpide, l'étang est sans ride  
+Dans le ciel splendide luit le c\[Sol\]roissant d\[Do\]'or  
+O\[Do\]rme chêne ou tremble, nul arbre ne tremble  
+Au loin le bois semble un g\[Sol\]éant qui d\[Do\]ort  
+Chien ni loup ne q\[Fa\]uitte sa niche o\[Sol\]u son g\[Do\]îte  
+Aucun bruit n'ag\[Fa\]ite la terre a\[Sol\]u repos  
+Alors d\[Do\]ans la v\[Fa\]ase, ouvrant e\[Sol\]n ext\[Do\]ase  
+Leurs yeux d\[Lam\]e top\[Rém\]aze, chantent l\[Sol\]es crap\[Do\]auds.
 
 Ils disent nous sommes haïs par les hommes  
 Nous troublons leur somme de nos tristes chants  
@@ -2599,11 +2598,11 @@ Coin-coin coin-coin
 
 ## Tri Yann (1972)
 
-D(lam)ans les prisons de N(Sol)antes  
+D\[Lam\]ans les prisons de N\[Sol\]antes  
 dam dibidibidam dam dibidibidibidam  
-D(Lam)ans les prisons de Nantes  
-Y'avait un prisonnie(Sol)r  
-Y'avait un prisonnie(Lam)r(Mim)(Lam) 
+D\[Lam\]ans les prisons de Nantes  
+Y'avait un prisonnie\[Sol\]r  
+Y'avait un prisonnie\[Lam\]r\[Mim\]\[Lam\] 
 
 Personne ne le vint le voir  
 Que la fille du geôlier
@@ -2694,15 +2693,15 @@ Devenait joie de vivre
 ## Hugues Aufray (1964)
 
 Refrain  
-Deb(Lam)out les gars, réveillez-vous  
-Il(Sol) va falloir en mettre un coup  
-D(Lam)ebout les gars, réveillez-vous  
-On v(Do)a au b(Sol)out du mo(Lam)nde.
+Deb\[Lam\]out les gars, réveillez-vous  
+Il\[Sol\] va falloir en mettre un coup  
+D\[Lam\]ebout les gars, réveillez-vous  
+On v\[Do\]a au b\[Sol\]out du mo\[Lam\]nde.
 
-C(Lam)ette montagne que tu vois  
-O(Sol)n en viendra à bout mon gars  
-U(Lam)n bulldozer et deux cents bras  
-Et p(Do)asser(Sol)a la r(Lam)oute.
+C\[Lam\]ette montagne que tu vois  
+O\[Sol\]n en viendra à bout mon gars  
+U\[Lam\]n bulldozer et deux cents bras  
+Et p\[Do\]asser\[Sol\]a la r\[Lam\]oute.
 
 Refrain
 
@@ -2971,17 +2970,17 @@ Hmm-hmm-hmm-hmm-hmm-hmm-hmm-hmm
 
 ## Renaud (1983)
 
-C'est pas l'h(Mim)omm' qui prend la mer,  
-C'est la m(Ré)er qui prend l'h(Mi)omme, ta-ta-tin  
-Moi, la m(Mim)er elle m'a p(Ré)ris, j'me souv(Mim)iens, un mardi  
-J'ai t(Mim)roqué mes santiag' et mon c(Ré)uir un peu z(Mim)one,  
-Contre un' paire de Docks(Ré)ides et un vieux ciré j(Mim)aune.  
-J'ai déserté les crasses qui m'd(Ré)isaient : « Sois prud(Mim)ent,  
-La mer c'est dégueul(Ré)asse, les poissons baisent ded(Mi)ans. »
+C'est pas l'h\[Mim\]omm' qui prend la mer,  
+C'est la m\[Ré\]er qui prend l'h\[Mi\]omme, ta-ta-tin  
+Moi, la m\[Mim\]er elle m'a p\[Ré\]ris, j'me souv\[Mim\]iens, un mardi  
+J'ai t\[Mim\]roqué mes santiag' et mon c\[Ré\]uir un peu z\[Mim\]one,  
+Contre un' paire de Docks\[Ré\]ides et un vieux ciré j\[Mim\]aune.  
+J'ai déserté les crasses qui m'd\[Ré\]isaient : « Sois prud\[Mim\]ent,  
+La mer c'est dégueul\[Ré\]asse, les poissons baisent ded\[Mi\]ans. »
 
 Refrain  
-D(Mi)ès que le vent souffler(Ré)a, je repartir(Mim)a,  
-Dès que l(Sol)es vents toumer(Ré)ont, nous nous e(Si7)n all'r(Mim)ons
+D\[Mi\]ès que le vent souffler\[Ré\]a, je repartir\[Mim\]a,  
+Dès que l\[Sol\]es vents toumer\[Ré\]ont, nous nous e\[Si7\]n all'r\[Mim\]ons
 
 C'est pas l'homm' qui prend la mer,   
 C'est la mer qui prend l’homme,  
@@ -3138,31 +3137,31 @@ Destination ailleurs
 
 ## Bénabar (2005)
 
-J(Lam)'veux pas y aller, à ce dîner  
-J'ai pas l'moral, j'suis fati(Fa)gué  
-Ils nous en voudront pa(Mi)s  
-Allez on n'y va pa(Lam)s
+J\[Lam\]'veux pas y aller, à ce dîner  
+J'ai pas l'moral, j'suis fati\[Fa\]gué  
+Ils nous en voudront pa\[Mi\]s  
+Allez on n'y va pa\[Lam\]s
 
 En plus faut qu'j'fasse un régime  
-Ma chemise me boudi(Fa)ne  
-J'ai l'air d'une chipola(Mi)ta  
-Je peux pas sortir comme ç(Lam)a
+Ma chemise me boudi\[Fa\]ne  
+J'ai l'air d'une chipola\[Mi\]ta  
+Je peux pas sortir comme ç\[Lam\]a
 
-Ç(LA)a n'a rien à vo(Rém)ir  
-J'le(Si)s aime bi(Mim)en, tes amis  
-Ma(Rém)is je veux pas les vo(Do)ir  
-P(Sol)arce que j'ai pas envie
+Ç\[La\]a n'a rien à vo\[Rém\]ir  
+J'le\[Si\]s aime bi\[Mim\]en, tes amis  
+Ma\[Rém\]is je veux pas les vo\[Do\]ir  
+P\[Sol\]arce que j'ai pas envie
 
 Refrain  
-On s'en fo(Do)ut, on n'y va pas  
-On n'a qu'à s'cac(Mim)her sous les draps  
-On com(Lam)mandera des pizzas  
-Toi, la tél(Sol)é et moi
+On s'en fo\[Do\]ut, on n'y va pas  
+On n'a qu'à s'cac\[Mim\]her sous les draps  
+On com\[Lam\]mandera des pizzas  
+Toi, la tél\[Sol\]é et moi
 
-On app(Do)elle, on s'excuse  
-On impro(Mim)vise, on trouve quelqu'chose  
-On n'a qu'à di(Do)re à tes am(Mi)is  
-Qu'on les aime pa(Lam)s et puis tant pis
+On app\[Do\]elle, on s'excuse  
+On impro\[Mim\]vise, on trouve quelqu'chose  
+On n'a qu'à di\[Do\]re à tes am\[Mi\]is  
+Qu'on les aime pa\[Lam\]s et puis tant pis
 
 J'suis pas d'humeur, tout me déprime  
 Et il se trouve que par hasard  
@@ -3262,18 +3261,18 @@ Quand tu ne m'appartiens pas
 
 Intro : Lam Rém Sol7 Lam
 
-Louis prend son b(Lam)us, comme tous les mat(Rém)ins  
-Il croisa cette même f(Sol7)ille, avec son doux parf(Lam)um  
-Qu'elle vienne lui parl(Lam)er, il espère tous les j(Rém)ours  
-Ce qu'il ressent au fond d(Sol7)'lui, c'est ce qu'on appelle l'am(Lam)our  
-Mais Louis, il est tim(Lam)ide et elle, elle est si b(Rém)elle  
-Il ne veut pas y all(Sol7)er, il est collé au fond d'son s(Lam)iège  
-Une fois elle lui a sour(Lam)i quand elle est descend(Rém)ue  
-Et depuis ce jour l(Sol7)à, il ne l'a jamais rev(Lam)ue
+Louis prend son b\[Lam\]us, comme tous les mat\[Rém\]ins  
+Il croisa cette même f\[Sol7\]ille, avec son doux parf\[Lam\]um  
+Qu'elle vienne lui parl\[Lam\]er, il espère tous les j\[Rém\]ours  
+Ce qu'il ressent au fond d\[Sol7\]'lui, c'est ce qu'on appelle l'am\[Lam\]our  
+Mais Louis, il est tim\[Lam\]ide et elle, elle est si b\[Rém\]elle  
+Il ne veut pas y all\[Sol7\]er, il est collé au fond d'son s\[Lam\]iège  
+Une fois elle lui a sour\[Lam\]i quand elle est descend\[Rém\]ue  
+Et depuis ce jour l\[Sol7\]à, il ne l'a jamais rev\[Lam\]ue
 
 Refrain  
-Ah il aurait dû y a(Lam)ller, il aurait dû le f(Rém)aire, crois-m(Lam)oi  
-On a tous dit : "Ah c'(Lam)est dommage, ah c'(Rém)est dommage, c'(Sol7)est p't'être la dernière f(Lam)ois"
+Ah il aurait dû y a\[Lam\]ller, il aurait dû le f\[Rém\]aire, crois-m\[Lam\]oi  
+On a tous dit : "Ah c'\[Lam\]est dommage, ah c'\[Rém\]est dommage, c'\[Sol7\]est p't'être la dernière f\[Lam\]ois"
 
 Yasmine a une belle voix, elle sait qu'elle est douée  
 Dans la tempête de sa vie, la musique est sa bouée  
@@ -3292,21 +3291,21 @@ On a tous dit : "Ah c'est dommage, ah c'est dommage, c'est p't'être la dernièr
 
 # Don’t worry, be happy
 
-## Bobby McFerrin (1988), 
+## Bobby McFerrin (1988)
 
 Intro: Sol Lam Do Sol 
 
-H(Sol)ere's a little song I wrote   
-You mig(Lam)ht want to sing it note for note   
-Don't wor(Do)ry, be hap(Sol)py  
-I(Sol)n every life we have some trouble  
-But wh(lam)en you worry you make it double   
-Don't wo(Do)rry, be hap(Sol)py
+H\[Sol\]ere's a little song I wrote   
+You mig\[Lam\]ht want to sing it note for note   
+Don't wor\[Do\]ry, be hap\[Sol\]py  
+I\[Sol\]n every life we have some trouble  
+But wh\[Lam\]en you worry you make it double   
+Don't wo\[Do\]rry, be hap\[Sol\]py
 
 Refrain  
-O(Sol)oh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo(Lam)-oooh  
-Ooh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo(Do)-oooh  
-Ooh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo(Sol)-oooh
+O\[Sol\]oh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo\[Lam\]-oooh  
+Ooh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo\[Do\]-oooh  
+Ooh, ooh ooh ooh-ooooh ooh oo-ooh oo-ooh oo\[Sol\]-oooh
 
 Ain’t got no place to lay your head  
 Somebody came and took your bed  
@@ -3401,14 +3400,14 @@ Si je t'aime pas
 
 ## Maxime Le Forestier (1974)
 
-C(Mi)e soir à la brume n(Lam)ous irons ma brune  
-C(Rém)ueillir des serm(Sol7)ents  
-C(Do)ette fleur sauvage qui f(Lam)ait des ravages  
-D(Rém)ans les c(Sol7)œurs d'enf(Do)ants  
-P(Fa)our toi ma princesse j(Sol)'en ferai des tresses  
-E(Sol7)t dans tes chev(Do)eux  
-C(Mi7)es serments, ma belle, t(Lam)e rendront cruelle  
-P(Rém)our tes am(Sol7)our(Do)eux.
+C\[Mi\]e soir à la brume n\[Lam\]ous irons ma brune  
+C\[Rém\]ueillir des serm\[Sol7\]ents  
+C\[Do\]ette fleur sauvage qui f\[Lam\]ait des ravages  
+D\[Rém\]ans les c\[Sol7\]œurs d'enf\[Do\]ants  
+P\[Fa\]our toi ma princesse j\[Sol\]'en ferai des tresses  
+E\[Sol7\]t dans tes chev\[Do\]eux  
+C\[Mi7\]es serments, ma belle, t\[Lam\]e rendront cruelle  
+P\[Rém\]our tes am\[Sol7\]our\[Do\]eux.
 
 Demain à l'aurore nous irons encore  
 Glaner dans les champs  
@@ -3441,10 +3440,10 @@ Pour tes amoureux.
 
 ## Bénabar (2008)
 
-Si le b(Do)attement d'ailes d'un papillon qu(Lam)elque part au Cambodge  
-Décl(Do)enche, sur un autre continent, le plus v(Lam)iolent des orages  
-Le c(Fa)hoix de quelques-uns dans un bur(Lam)eau occidental  
-Bouleverse des m(Fa)illions de destins, surtout si le b(Sol)ureau est ovale
+Si le b\[Do\]attement d'ailes d'un papillon qu\[Lam\]elque part au Cambodge  
+Décl\[Do\]enche, sur un autre continent, le plus v\[Lam\]iolent des orages  
+Le c\[Fa\]hoix de quelques-uns dans un bur\[Lam\]eau occidental  
+Bouleverse des m\[Fa\]illions de destins, surtout si le b\[Sol\]ureau est ovale
 
 Il n'y a que l'ours blanc qui s'étonne que sa banquise fonde  
 Ça ne surprend plus personne, de notre côté du monde  
@@ -3452,8 +3451,8 @@ Quand le financier s'enrhume, ce sont les ouvriers qui toussent
 C'est très loin la couche d'ozone, mais c'est d'ici qu'on la perce
 
 Refrain  
-C(Do)'est l'effet papill(Lam)on : petite c(Fa)aus(Sol)e, grande conséquenc(Do)e  
-P(Do)ourtant jolie comme express(Lam)ion : petite c(Fa)hos(Sol)e, dégât immens(Do)e
+C\[Do\]'est l'effet papill\[Lam\]on : petite c\[Fa\]aus\[Sol\]e, grande conséquenc\[Do\]e  
+P\[Do\]ourtant jolie comme express\[Lam\]ion : petite c\[Fa\]hos\[Sol\]e, dégât immens\[Do\]e
 
 Qu'on l'appelle "retour de flamme" ou "théorie des dominos"  
 "Un murmure devient vacarme" comme dit le proverbe à propos :  
@@ -3475,13 +3474,9 @@ Pour récupérer, à huit heures, ton permis au tribunal
 
 Refrain
 
-Le papill(Do)on s'envole, le papill(Lam)on s'envole  
-T(Fa)out b(Sol)at de l'ail(Do)e  
+Le papill\[Do\]on s'envole, le papill\[Lam\]on s'envole  
+T\[Fa\]out b\[Sol\]at de l'ail\[Do\]e  
 (bis)
-
-## 
-
-## 
 
 # Elle m'a dit
 
@@ -3551,21 +3546,21 @@ Refrain
 
 ## Boulevard des airs (2015)
 
-J(Lam)’suis comme u(Sol)n grain de sable  
-P(Lam)erdu dans l’(Sol)océan  
-J(Lam)’ai perdu m(Sol)on cartable  
-J(Do)’ai perdu mes p(Sol)arents
+J\[Lam\]’suis comme u\[Sol\]n grain de sable  
+P\[Lam\]erdu dans l’\[Sol\]océan  
+J\[Lam\]’ai perdu m\[Sol\]on cartable  
+J\[Do\]’ai perdu mes p\[Sol\]arents
 
-J(Lam)’suis comme l’eau d(Sol)es courants  
-F(lam)atigué d(Sol)’ignorer  
-S(Lam)i je coule d(Sol)ans le vent  
-S(Do)i je fais que pas(Sol)ser
+J\[Lam\]’suis comme l’eau d\[Sol\]es courants  
+F\[Lam\]atigué d\[Sol\]’ignorer  
+S\[Lam\]i je coule d\[Sol\]ans le vent  
+S\[Do\]i je fais que pas\[Sol\]ser
 
 Refrain  
-E(Rém)mmène-moi vo(Lam)ir la mer  
-F(Mi)ais-moi boire l’océ(Lam)an  
-E(Rém)mmène-moi d(Lam)ans les airs  
-A(Mi)ime-moi dans le ve(Lam)nt  
+E\[Rém\]mmène-moi vo\[Lam\]ir la mer  
+F\[Mi\]ais-moi boire l’océ\[Lam\]an  
+E\[Rém\]mmène-moi d\[Lam\]ans les airs  
+A\[Mi\]ime-moi dans le ve\[Lam\]nt  
 (bis)
 
 J’suis comme une poussière  
@@ -3630,20 +3625,20 @@ C'est vrai je m'en vais (x3)
 
 Intro: Mim Lam Do Si7
 
-J'm'en souviens, j'(Mim)avais six ans  
-J'comprenais p(Lam)as c'que voulaient mes parents  
-Quand ils m'ont d(Do)it “mon enfant  
-Va chez les s(Si7)couts, c'est important"  
-Moi, j'flippais g(Mim)rave au début  
-J'sortais d'chez m(Lam)oi, d'mes habitudes  
-Mais la rib(Do)ambelle m'ouvre la porte  
-Et au f(Si7)inal le rire m'emporte
+J'm'en souviens, j'\[Mim\]avais six ans  
+J'comprenais p\[Lam\]as c'que voulaient mes parents  
+Quand ils m'ont d\[Do\]it “mon enfant  
+Va chez les s\[Si7\]couts, c'est important"  
+Moi, j'flippais g\[Mim\]rave au début  
+J'sortais d'chez m\[Lam\]oi, d'mes habitudes  
+Mais la rib\[Do\]ambelle m'ouvre la porte  
+Et au f\[Si7\]inal le rire m'emporte
 
 Refrain  
-E(Mim)nsemble on est mieux  
-On a du m(Do)al à s'dire adieu  
-Les scouts nous p(Sol)ortent, nous transportent  
-Nous font d(Si7)anser comme le feu  
+E\[Mim\]nsemble on est mieux  
+On a du m\[Do\]al à s'dire adieu  
+Les scouts nous p\[Sol\]ortent, nous transportent  
+Nous font d\[Si7\]anser comme le feu  
 (bis)
 
 Puis j'me rappelle de mes huit ans  
@@ -3821,10 +3816,10 @@ De la bergère et de son petit savoyard.
 
 ## Les Cowboys fringants (2004)
 
-Si je m(lam)'arrête un instant  
-Pour te par(Sol)ler de ma vie  
-Juste comme ça(Mim) tranquillement  
-Dans un b(Fa)ar, rue St-Denis
+Si je m\[Lam\]'arrête un instant  
+Pour te par\[Sol\]ler de ma vie  
+Juste comme ça\[Mim\] tranquillement  
+Dans un b\[Fa\]ar, rue St-Denis
 
 J'te raconterai les souvenirs  
 Bien gravés dans ma mémoire  
@@ -3842,11 +3837,11 @@ Et rentrer les pieds g'lés
 Juste à temps pour Passe-Partout
 
 Refrain  
-Mais au bo(Lam)ut du ch'min, dis-moi c'qui va rest(sol)er  
-De la p'(Mim)tite école et d'la cour de r(Fa)écré  
-Quand les avi(Lam)ons en papier ne partent plus au ve(Sol)nt  
-On se di(Mim)t que l'bon temps passe finalem(Fa)ent  
-Comme une étoile fila(lam)nte
+Mais au bo\[Lam\]ut du ch'min, dis-moi c'qui va rest\[Sol\]er  
+De la p'\[Mim\]tite école et d'la cour de r\[Fa\]écré  
+Quand les avi\[Lam\]ons en papier ne partent plus au ve\[Sol\]nt  
+On se di\[Mim\]t que l'bon temps passe finalem\[Fa\]ent  
+Comme une étoile fila\[Lam\]nte
 
 Pont: Lam Sol Mim Fa
 
@@ -3949,15 +3944,15 @@ C'est vrai je crois peut devenir comme moi \! (bis)
 ## Rosana Spadavecchia 
 
 Refrain  
-V(Lam)a, cette fête est termin(Rém)ée  
-Mais la vraie f(Sol7)ête comm(Do)ence  
-V(Lam)a, prends la route et va sem(Mi)er  
-Les fleurs de l'amit(Lam)ié
+V\[Lam\]a, cette fête est termin\[Rém\]ée  
+Mais la vraie f\[Sol7\]ête comm\[Do\]ence  
+V\[Lam\]a, prends la route et va sem\[Mi\]er  
+Les fleurs de l'amit\[Lam\]ié
 
-I(Mi)l est arriv(Lam)é  
-Le t(Sol)emps de partag(Do)er  
-Faram(Rém)az, c'est toi, c'est m(Do)oi  
-Nos p(Lam)eines e(Rém)t nos j(Mi)oies
+I\[Mi\]l est arriv\[Lam\]é  
+Le t\[Sol\]emps de partag\[Do\]er  
+Faram\[Rém\]az, c'est toi, c'est m\[Do\]oi  
+Nos p\[Lam\]eines e\[Rém\]t nos j\[Mi\]oies
 
 Refrain
 
@@ -3979,14 +3974,14 @@ Du scoutisme de demain
 
 ## Capo X
 
-E(Lam)lle est abo(Fa)nnée à(Do) Marie-Cl(Sol)aire  
-D(LAm)ans le Nouvel O(Fa)bs, ell'ne lit q(Do)ue Brétéch(Sol)er  
-L(Lam)e Monde y a l(Fa)ongtemps qu'elle fa(Do)it plus sembl(Sol)ant  
-Elle ach(Lam)ète Match en ca(Fa)chette, c'est bi(Do)en plus marr(Sol7)ant.
+E\[Lam\]lle est abo\[Fa\]nnée à\[Do\] Marie-Cl\[Sol\]aire  
+D\[Lam\]ans le Nouvel O\[Fa\]bs, ell'ne lit q\[Do\]ue Brétéch\[Sol\]er  
+L\[Lam\]e Monde y a l\[Fa\]ongtemps qu'elle fa\[Do\]it plus sembl\[Sol\]ant  
+Elle ach\[Lam\]ète Match en ca\[Fa\]chette, c'est bi\[Do\]en plus marr\[Sol7\]ant.
 
 Refrain  
-Ne la laisse p(Lam)as tomb(Fa)er, elle(Do) est si fragile  
-Etre une femme libérée, tu sais, c'est pas si fac(Sol)ile  
+Ne la laisse p\[Lam\]as tomb\[Fa\]er, elle\[Do\] est si fragile  
+Etre une femme libérée, tu sais, c'est pas si fac\[Sol\]ile  
 (bis)
 
 Au fond de son lit, un macho s'endort  
@@ -4176,22 +4171,20 @@ Un mieux, un rêve, un cheval
 
 Refrain
 
-## 
-
 # Le galérien
 
 ## Yves Montand (1950)
 
 ## Capo III
 
-J(Do)e m'souviens ma m(Sol7)ère m'aimait  
-Et je suis aux g(Do)alèr(Mi7)es.  
-J(Lam)e m'souviens ma m(Mi)ère disait  
-M(Mi7)ais je n'ai pas cru ma m(Lam)èr(Sol7)e.  
-N(Do)e traîne pas dans l(Sol7)es ruisseaux  
-T'bats pas comme un sauv(Do)ag(Mi7)e  
-T(Lam)'amuse pas comme l(Mi)es oiseaux  
-E(mi7)lle me disait d'être s(Lam)ag(Sol7)e.
+J\[Do\]e m'souviens ma m\[Sol7\]ère m'aimait  
+Et je suis aux g\[Do\]alèr\[Mi7\]es.  
+J\[Lam\]e m'souviens ma m\[Mi\]ère disait  
+M\[Mi7\]ais je n'ai pas cru ma m\[Lam\]èr\[Sol7\]e.  
+N\[Do\]e traîne pas dans l\[Sol7\]es ruisseaux  
+T'bats pas comme un sauv\[Do\]ag\[Mi7\]e  
+T\[Lam\]'amuse pas comme l\[Mi\]es oiseaux  
+E\[Mi7\]lle me disait d'être s\[Lam\]ag\[Sol7\]e.
 
 J'ai pas tué, j'ai pas volé  
 J'voulais courir ma chance.  
@@ -4389,15 +4382,15 @@ Refrain
 
 ## Georges Brassens (1952)
 
-C'est à t(Ré)ravers de larges grilles,  
-Que les femelles du cant(La7)on,  
+C'est à t\[Ré\]ravers de larges grilles,  
+Que les femelles du cant\[La7\]on,  
 Contemplaient un puissant gorille,  
-Sans souci du qu'en-dira-t-(Ré)on ;  
+Sans souci du qu'en-dira-t-\[Ré\]on ;  
 Avec impudeur, ces commères  
-Lorgnaient même un endroit préc(La7)is  
+Lorgnaient même un endroit préc\[La7\]is  
 Que, rigoureusement, ma mère  
-M'a défendu d’ nommer ic(Ré)i  
-Gare au gori(Ré)ii-i(La7)ii-i(Ré)ii-i(La7)ii-lle \!
+M'a défendu d’ nommer ic\[Ré\]i  
+Gare au gori\[Ré\]ii-i\[La7\]ii-i\[Ré\]ii-i\[La7\]ii-lle \!
 
 Tout à coup la prison bien close  
 Où vivait le bel animal  
@@ -4484,17 +4477,17 @@ Gare au goriii-iii-iii-iii-lle \!
 ## Joe Dassin (1966)
 
 Refrain  
-G(Sol)uantanamera(La),  
-Ma ville G(Ré)uantanamera(La),  
-G(Ré)uantana(Sol)mera(La),  
-Ma ville G(Ré)uantanam(Sol)er(La)a.
+G\[Sol\]uantanamera\[La\],  
+Ma ville G\[Ré\]uantanamera\[La\],  
+G\[Ré\]uantana\[Sol\]mera\[La\],  
+Ma ville G\[Ré\]uantanam\[Sol\]er\[La\]a.
 
-C'était un h(Ré)omme en dér(La)oute,  
-C'était un f(Ré)rère sans do(La)ute,  
-Il n'avait n(Ré)i lieu ni p(La)lace,  
-Et sur les r(Ré)outes de l'exil,  
-Sur les s(Ré)entiers, sur les p(Sol)lace(La)s,  
-Il me par(Ré)lait de sa v(Sol)ille(La).
+C'était un h\[Ré\]omme en dér\[La\]oute,  
+C'était un f\[Ré\]rère sans do\[La\]ute,  
+Il n'avait n\[Ré\]i lieu ni p\[La\]lace,  
+Et sur les r\[Ré\]outes de l'exil,  
+Sur les s\[Ré\]entiers, sur les p\[Sol\]lace\[La\]s,  
+Il me par\[Ré\]lait de sa v\[Sol\]ille\[La\].
 
 Refrain
 
@@ -4562,21 +4555,21 @@ Hakuna Matata, (3x)
 
 ## Leonard Cohen (1984), M Pokora (2012)
 
-Now, I’ve h(Sol)eard there was a s(Mim)ecret chord
+Now, I’ve h\[Sol\]eard there was a s\[Mim\]ecret chord
 
-That D(Sol)avid played and it pl(Mim)eased the Lord
+That D\[Sol\]avid played and it pl\[Mim\]eased the Lord
 
-But y(Do)ou don't really c(Ré)are for music, d(Sol)o you ?(Ré)
+But y\[Do\]ou don't really c\[Ré\]are for music, d\[Sol\]o you ?\[Ré\]
 
-Well, it g(Sol)oes like this, the f(Do)ourth, the f(Ré)ifth
+Well, it g\[Sol\]oes like this, the f\[Do\]ourth, the f\[Ré\]ifth
 
-The m(Mim)inor fall and the m(Do)ajor lift
+The m\[Mim\]inor fall and the m\[Do\]ajor lift
 
-The b(Ré)affled king comp(Si7)osing “Halleluj(Mim)ah”
+The b\[Ré\]affled king comp\[Si7\]osing “Halleluj\[Mim\]ah”
 
 Refrain
 
-Hallel(Do)ujah, Hallel(Mim)ujah, Hallel(Do)ujah, Hallel(Sol)u-uhu-u(Ré)-uj(Do)ah
+Hallel\[Do\]ujah, Hallel\[Mim\]ujah, Hallel\[Do\]ujah, Hallel\[Sol\]u-uhu-u\[Ré\]-uj\[Do\]ah
 
 Your faith was strong but you needed proof
 
@@ -4638,10 +4631,10 @@ Refrain
 
 ## Joan Baez (1971)
 
-H(Do)ere's to y(Sol)ou, Nicol(Lam)a and Ba(Mim)rt  
-R(do)est foreve(Sol)r here i(lam)n our hea(sol)rts  
-T(Mim)he last and fi(Rém)nal m(Sol)oment is yo(Do)urs  
-T(Do)hat ago(Sol)ny is yo(Lam)ur tri(Mim)um(Lam)ph  
+H\[Do\]ere's to y\[Sol\]ou, Nicol\[Lam\]a and Ba\[Mim\]rt  
+R\[Do\]est foreve\[Sol\]r here i\[Lam\]n our hea\[Sol\]rts  
+T\[Mim\]he last and fi\[Rém\]nal m\[Sol\]oment is yo\[Do\]urs  
+T\[Do\]hat ago\[Sol\]ny is yo\[Lam\]ur tri\[Mim\]um\[Lam\]ph  
 (8x)
 
 # Hexagone\*
@@ -6149,7 +6142,7 @@ Y a du chouchen à  volonté
 Viens donc faire un tour à  Lambé  
 (bis)  
 Si t'as rien trouvé pour squatter  
-Viens donc faire un tour à  Lambé$  
+Viens donc faire un tour à  Lambé  
 (bis)  
 Si ton mec vient de te plaquer  
 Viens donc faire un tour à  Lambé  
@@ -7599,14 +7592,14 @@ Faut profiter du vent qu'on a dans l'dos.
 
 ## Tony Sheridan & The Beatles (1964)
 
-My Bon(Sol)nie lies ov(Do)er the oc(Sol)ean  
-My Bonnie lies ov(la7)er the se(Ré7)a  
-Well, my Bo(Sol)nnie lies ov(Do)er the oc(Sol)ean  
-Yeah, bri(La7)ng back my Bon(Ré7)nie to m(Sol)e  
-Yeah, bri(Sol)ng ba(Sol7)ck, ah, br(Do)ing ba(La7)ck  
-Oh, br(Ré7)ing back my Bonnie to m(Sol)e, to me  
-Ah, bri(Sol)ng, oh, bring ba(Sol7)ck, ah, b(Do)ring ba(La7)ck  
-Oh, br(Ré7)ing back my Bonnie to m(Sol)e
+My Bon\[Sol\]nie lies ov\[Do\]er the oc\[Sol\]ean  
+My Bonnie lies ov\[La7\]er the se\[Ré7\]a  
+Well, my Bo\[Sol\]nnie lies ov\[Do\]er the oc\[Sol\]ean  
+Yeah, bri\[La7\]ng back my Bon\[Ré7\]nie to m\[Sol\]e  
+Yeah, bri\[Sol\]ng ba\[Sol7\]ck, ah, br\[Do\]ing ba\[La7\]ck  
+Oh, br\[Ré7\]ing back my Bonnie to m\[Sol\]e, to me  
+Ah, bri\[Sol\]ng, oh, bring ba\[Sol7\]ck, ah, b\[Do\]ring ba\[La7\]ck  
+Oh, br\[Ré7\]ing back my Bonnie to m\[Sol\]e
 
 Well, my Bonnie lies over the ocean  
 My Bonnie lies over the sea  
@@ -8244,7 +8237,7 @@ A grands coups d'sabre, j'les émondions.
 Le Roi Louis m'a z'appelé,  
 C'est «sans quartier» qu'il m'a nommé,  
 « Sans quartier », c'est point mon nom,  
-J'lui dis \['m'appelle Pelot d'Hennebont.
+J'lui dis j'm'appelle Pelot d'Hennebont.
 
 Il a quéri z'un biau ruban  
 Et je n'sais quoi z'au bout d'argent,  
@@ -10939,16 +10932,16 @@ Paroles…
 
 Capo I
 
-(Am)Au début du monde (F)apparurent deux (C)mages  
-(Am)L’un nommé Hou(F)ro, l’autre Ma(C)kanka  
-En(Am)semble ils créèrent (F)l’air, l’eau, le feu, la (C)terre  
-Ain(Am)si qu’une cité comme ja(F)mais n’a exis(C)té  
-A la (Am)voir, on (F)aurait pu pa(C)rier  
-Que (Am)rien ne pouvait (F)la troubler (C)
+\[Am\]Au début du monde \[F\]apparurent deux \[C\]mages  
+\[Am\]L’un nommé Hou\[F\]ro, l’autre Ma\[C\]kanka  
+En\[Am\]semble ils créèrent \[F\]l’air, l’eau, le feu, la \[C\]terre  
+Ain\[Am\]si qu’une cité comme ja\[F\]mais n’a exis\[C\]té  
+A la \[Am\]voir, on \[F\]aurait pu pa\[C\]rier  
+Que \[Am\]rien ne pouvait \[F\]la troubler \[C\]
 
-La (Am)cité des (F)éléments (C) est (Am)apparue (F)du néant (C)  
-For(Am)mée de terre, de (F)feu brûlant (C)  
-De (Am)l’air, de (F)l’eau des océans (C)
+La \[Am\]cité des \[F\]éléments \[C\] est \[Am\]apparue \[F\]du néant \[C\]  
+For\[Am\]mée de terre, de \[F\]feu brûlant \[C\]  
+De \[Am\]l’air, de \[F\]l’eau des océans \[C\]
 
 Mais les deux mages se disputèrent  
 Jour après jour, parcourant ciel et terre  
