@@ -53,6 +53,11 @@ def regex_search_and_replace(input_file_path, output_file_path):
 
     # Finish with \endsong
     content = content.rstrip() + '\n\\endverse\n\n\\endsong\n'
+    
+    # Shift chords \[] from one letter to the left, add a space if already beginning of the line
+    content = re.sub(r'(\W)(\\\[\w+\])', r'\1\2 ', content)
+    content = re.sub(r'(\w)(\\\[\w+\])', r'\2\1', content)
+
 
     # Write the modified content back to the file
     with open(output_file_path, 'w', encoding='utf-8') as file:
