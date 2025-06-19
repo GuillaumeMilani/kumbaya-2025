@@ -1,6 +1,7 @@
 \documentclass[a4paper,12pt]{article}
 \usepackage[chorded]{songs}
 \usepackage{graphicx}
+\usepackage{lmodern} % Modern font
 \usepackage[utf8]{inputenc}
 % \usepackage[
 % % set width and height to a5 width and height + 6mm
@@ -13,32 +14,39 @@
 % center
 % ]{crop}
 
+\renewcommand{\familydefault}{\sfdefault}
 
 \songcolumns{2}
 % \columnsep=0.4cm
 
 \noversenumbers
-\setlength{\songnumwidth}{0.5cm}
-%\renewcommand{\lyricfont}{\sffamily\small}
-\renewcommand{\chorusfont}{\it}
+% \setlength{\songnumwidth}{0.5cm}
+\renewcommand{\lyricfont}{\sffamily\small}
+\renewcommand{\chorusfont}{\sffamily\small}
 % \renewcommand{\snumbgcolor}{red}
-\renewcommand{\printchord}[1]{\rmfamily\bf#1}
-\versesep=12pt plus 2pt minus 2pt
+\renewcommand{\printchord}[1]{{\vspace{3ex}\textbf{\textit{#1}}}}
 
-\setlength{\cbarwidth}{0pt}
+% More space below chords
+\renewcommand{\clineparams}{
+  \baselineskip=12pt
+  \lineskiplimit=2pt
+  \lineskip=2pt
+}
+
+\setlength{\cbarwidth}{1pt}
 \setlength{\sbarheight}{0pt}
 \setlength{\parindent}{0pt}
 
-%\setlength{\versesep}{0pt}
+\setlength{\versesep}{2ex} % Increase as needed (default is usually 1ex)
 %\setlength{\chordsep}{0pt}
 
 \usepackage{geometry}
 \geometry{
 	a5paper,
 	% total={170mm,257mm},
-	left=5mm,
+	left=10mm,
 	top=10mm,
-	right=5mm,
+	right=10mm,
 	bottom=3mm
 }
 
@@ -56,7 +64,7 @@
 	% \end{figure}
 	% \newpage
 
-	\showindex[2]{Index alphabétique}{mainindex}
+	% \showindex[2]{Index alphabétique}{mainindex}
 	
 	\begin{songs}{}
 		\input{paroles.tex}
