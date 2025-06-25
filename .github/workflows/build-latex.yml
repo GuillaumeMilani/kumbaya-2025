@@ -16,7 +16,6 @@ jobs:
       - name: Set up LaTeX environment
         uses: xu-cheng/latex-action@v3
         with:
-          pre_compile: python prepare.py
           latexmk-flags: "-pdf"
           root_file: chansonnier.tex
 
