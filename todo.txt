@@ -1,4 +1,5 @@
 - Espace en dessus des accords
+- Gestion des bis
 
 - Police "Speak Pro" ou "Century Gothic"
 - Bis
