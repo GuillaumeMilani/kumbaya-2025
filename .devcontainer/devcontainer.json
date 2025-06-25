@@ -3,6 +3,12 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
+  // Mount SSH keys from host
+  "mounts": [
+    "source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,consistency=cached",
+    // Optionally, if you want SSH agent forwarding:
+    "source=${localEnv:SSH_AUTH_SOCK},target=/tmp/ssh-agent.sock,type=bind,consistency=cached"
+  ],
   "postCreateCommand": {
     "Fix Volume Permissions": "sudo chown -R $(whoami): /workspaces",
     "Set VSCode as default git editor": "git config --global core.editor \"code --wait\""
