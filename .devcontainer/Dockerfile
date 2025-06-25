@@ -5,6 +5,7 @@ FROM texlive/texlive:latest
 RUN apt-get update && apt-get install -y \
     openssh-client \
     git \
+    bash \
     && apt-get clean
 
 # Set up a non-root user for development
@@ -20,3 +21,6 @@ RUN groupadd --gid $USER_GID $USERNAME \
 
 # Switch to the development user
 USER $USERNAME
+
+# Run bash as the default shell
+CMD ["bash"]

@@ -4,9 +4,14 @@
     "dockerfile": "Dockerfile"
   },
   "postCreateCommand": {
-    "Fix Volume Permissions": "sudo chown -R $(whoami): /workspaces"
+    "Fix Volume Permissions": "sudo chown -R $(whoami): /workspaces",
+    "Set VSCode as default git editor": "git config --global core.editor \"code --wait\""
   },
-  // "workspaceFolder": "/workspace",
+  "workspaceFolder": "/workspaces/kumbaya-2025",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/vscode-cli:1": {
+    }
+  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -26,6 +31,8 @@
         "files.associations": {
           "*.tex": "latex"
         },
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.cwd": "/workspaces/kumbaya-2025",
         "latex-workshop.latex.autoClean.run": "onBuilt",
         "latex-workshop.latex.clean.subfolder.enabled": true,
         // "latex-workshop.latex.recipes": [
