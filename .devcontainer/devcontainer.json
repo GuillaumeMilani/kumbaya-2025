@@ -3,6 +3,9 @@
   "build": {
     "dockerfile": "Dockerfile"
   },
+  "postCreateCommand": {
+    "Fix Volume Permissions": "sudo chown -R $(whoami): /workspaces"
+  },
   // "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
