@@ -3,6 +3,7 @@
 \usepackage{graphicx}
 \usepackage{lmodern} % Modern font
 \usepackage[utf8]{inputenc}
+\usepackage{multicol}
 % \usepackage[
 % % set width and height to a5 width and height + 6mm
 % width=154truemm, height=216truemm,
@@ -16,8 +17,9 @@
 
 \renewcommand{\familydefault}{\sfdefault}
 
-\songcolumns{2}
-% \columnsep=0.4cm
+% We use the multicol package instead of the songs package's
+\songcolumns{0}
+\newcommand{\nbcols}{2}
 
 \noversenumbers
 % \setlength{\songnumwidth}{0.5cm}
@@ -64,9 +66,10 @@
 	% \newpage
 
 	% \showindex[2]{Index alphabétique}{mainindex}
-	
+	\begin{multicols}{\nbcols}
 	\begin{songs}{}
 		\input{paroles.tex}
 	\end{songs}
+	\end{multicols}
 \end{document}
 
