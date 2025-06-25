@@ -26,14 +26,7 @@
 \renewcommand{\lyricfont}{\sffamily\small}
 \renewcommand{\chorusfont}{\sffamily\small}
 % \renewcommand{\snumbgcolor}{red}
-\renewcommand{\printchord}[1]{{\vspace{3ex}\textbf{\textsl{#1}}}}
-
-% More space below chords
-% \renewcommand{\clineparams}{
-%   \baselineskip=12pt
-%   \lineskiplimit=2pt
-%   \lineskip=2pt
-% }
+\renewcommand{\printchord}[1]{{\fontsize{9}{11}\selectfont\textbf{\textsl{#1}}}}
 
 \setlength{\cbarwidth}{1pt}
 \setlength{\sbarheight}{0pt}
@@ -45,11 +38,19 @@
 \geometry{
 	a5paper,
 	% total={170mm,257mm},
-	left=10mm,
+	left=12mm,
 	top=10mm,
 	right=10mm,
-	bottom=3mm
+	bottom=10mm
 }
+
+% \renewcommand\printchord[1]{%
+% \vbox{%
+% \vskip 3pt% Add 3pt space above the chord
+% \hbox{\fontsize{9}{11}\selectfont\textbf{\textsl{#1}}}%
+% \vskip 0pt% Ensure proper baseline
+% }%
+% }
 
 \baselineadj=-10pt plus 1pt minus 0pt
 %\renewcommand{\clineparams}{
@@ -57,6 +58,14 @@
 %	\lineskiplimit=5pt
 %	\lineskip=1pt
 %}
+
+\interlinepenalty=0
+% \vvpenalty=0
+% \ccpenalty=0
+\vcpenalty=0
+\cvpenalty=0
+% \brkpenalty=0
+\pagenumbering{gobble}
 
 \newindex{mainindex}{idxfile}
 \begin{document}
