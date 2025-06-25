@@ -1,7 +1,11 @@
-- Capo > V, enlever
-- Tonalité originale, enlever
-- Refrains
-- Espaces à la fin des lignes
 - Espace en dessus des accords
 
 - Police "Speak Pro" ou "Century Gothic"
+- Bis
+
+To redo later
+
+- Espaces à la fin des lignes
+- Capo > V, enlever
+- Tonalité originale, enlever
+- Refrains
