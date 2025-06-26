@@ -17,13 +17,13 @@ jobs:
         uses: xu-cheng/latex-action@v3
         with:
           latexmk-flags: "-pdf"
-          root_file: chansonnier.tex
+          root_file: content/0_chansonnier.tex
 
       - name: Upload PDF
         uses: actions/upload-artifact@v4
         with:
           name: built-pdf
-          path: chansonnier.pdf
+          path: content/0_chansonnier.pdf
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1

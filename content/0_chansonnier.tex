@@ -59,13 +59,24 @@
 %	\lineskip=1pt
 %}
 
+% Reduce penalties to allow breaking paragraphs / songs into multiple pages
 \interlinepenalty=0
 % \vvpenalty=0
 % \ccpenalty=0
 \vcpenalty=0
 \cvpenalty=0
 % \brkpenalty=0
+
+% Don't number pages
 \pagenumbering{gobble}
+
+% General text formatting
+\usepackage{parskip}
+\setlength{\parskip}{0.5em}
+
+% Make middle-dot display without space around
+\usepackage{newunicodechar}
+\newunicodechar{·}{\ensuremath{{\cdot}}}
 
 \newindex{mainindex}{idxfile}
 \begin{document}
@@ -75,11 +86,13 @@
 	% \newpage
 
 	% \showindex[2]{Index alphabétique}{mainindex}
+	\input{1_avant_propos.tex}
 	\begin{multicols}{\nbcols}
 	\begin{songs}{}
-		\input{paroles.tex}
-		\input{paroles_part2.tex}
+		\input{2_paroles_part1.tex}
+		\input{2_paroles_part2.tex}
 	\end{songs}
 	\end{multicols}
+	\input{4_remerciements.tex}
 \end{document}
 
