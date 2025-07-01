@@ -1,19 +1,31 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass[a4paper,12pt,twoside]{article}
 \usepackage[chorded]{songs}
 \usepackage{graphicx}
 \usepackage{lmodern} % Modern font
 \usepackage[utf8]{inputenc}
 \usepackage{multicol}
-% \usepackage[
-% % set width and height to a5 width and height + 6mm
-% width=154truemm, height=216truemm,
-% % use any combination of these options to add different cut markings
-% cam, axes, frame, cross,
-% % set the type of TeX renderer you use
-% pdftex,
-% % center the contents
-% center
-% ]{crop}
+
+% Cut markings
+\usepackage[
+	% set width and height to a5 width and height + 6mm
+	width=154truemm, height=216truemm,
+	% use any combination of these options to add different cut markings
+	cam, axes, frame, cross,
+	% set the type of TeX renderer you use
+	pdftex,
+	% center the contents
+	center
+]{crop}
+
+% Page dimensions
+\usepackage{geometry}
+\geometry{
+	paper=a5paper,
+	left=12mm,
+	top=10mm,
+	right=10mm,
+	bottom=10mm
+}
 
 \renewcommand{\familydefault}{\sfdefault}
 
@@ -33,16 +45,6 @@
 \setlength{\parindent}{0pt}
 
 \setlength{\versesep}{2ex} % Increase as needed (default is usually 1ex)
-
-\usepackage{geometry}
-\geometry{
-	a5paper,
-	% total={170mm,257mm},
-	left=12mm,
-	top=10mm,
-	right=10mm,
-	bottom=10mm
-}
 
 % \renewcommand\printchord[1]{%
 % \vbox{%
@@ -74,25 +76,41 @@
 \usepackage{parskip}
 \setlength{\parskip}{0.5em}
 
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{eso-pic}
+\graphicspath{{illustrations/}}
+
 % Make middle-dot display without space around
 \usepackage{newunicodechar}
 \newunicodechar{·}{\ensuremath{{\cdot}}}
 
 \newindex{mainindex}{idxfile}
 \begin{document}
-	% \begin{figure}
-	% 	\includegraphics[width=\linewidth]{titre.jpg}
-	% \end{figure}
-	% \newpage
+\newgeometry{
+	left=0mm,
+	top=0mm,
+	right=0mm,
+	bottom=0mm}
 
-	% \showindex[2]{Index alphabétique}{mainindex}
-	\input{1_avant_propos.tex}
-	\begin{multicols}{\nbcols}
+\AddToShipoutPictureBG*{%
+	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.jpeg}}}%
+}
+\newpage
+\
+\newpage
+\clearpage
+\restoregeometry
+
+% \showindex[2]{Index alphabétique}{mainindex}
+\input{1_avant_propos.tex}
+\newpage
+\begin{multicols}{\nbcols}
 	\begin{songs}{}
 		\input{2_paroles_part1.tex}
 		\input{2_paroles_part2.tex}
 	\end{songs}
-	\end{multicols}
-	\input{4_remerciements.tex}
+\end{multicols}
+\input{4_remerciements.tex}
 \end{document}
 
