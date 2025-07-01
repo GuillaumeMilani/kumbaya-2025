@@ -62,11 +62,11 @@
 %}
 
 % Reduce penalties to allow breaking paragraphs / songs into multiple pages
-\interlinepenalty=0
+% \interlinepenalty=0
 % \vvpenalty=0
 % \ccpenalty=0
-\vcpenalty=0
-\cvpenalty=0
+% \vcpenalty=0
+% \cvpenalty=0
 % \brkpenalty=0
 
 % Don't number pages
@@ -99,6 +99,8 @@
 \newpage
 \
 \newpage
+\
+\newpage
 \clearpage
 \restoregeometry
 
@@ -109,8 +111,14 @@
 	\begin{songs}{}
 		\input{2_paroles_part1.tex}
 		\input{2_paroles_part2.tex}
+		\input{2_paroles_part3.tex}
+		\input{2_paroles_part4_bans.tex}
 	\end{songs}
 \end{multicols}
 \input{4_remerciements.tex}
+\newpage
+\
+\newpage
+\
 \end{document}
 

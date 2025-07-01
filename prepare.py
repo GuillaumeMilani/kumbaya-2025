@@ -53,7 +53,7 @@ def regex_search_and_replace(input_file_path, output_file_path):
 
     # Finish with \endsong
     content = content.rstrip() + '\n\\endverse\n\n\\endsong\n'
-    
+
     # Shift chords \[] from one letter to the left, add a space if already beginning of the line
     content = re.sub(r'(\W)(\\\[\w+\])', r'\1\2 ', content)
     content = re.sub(r'(\w)(\\\[\w+\])', r'\2\1', content)
@@ -65,6 +65,6 @@ def regex_search_and_replace(input_file_path, output_file_path):
 
     print("Search and replace operations completed successfully.")
 
-input_file_path = 'Paroles_part2.md'
-output_file_path = 'paroles_part2.tex'
+input_file_path = 'Paroles_part4_bans.md'
+output_file_path = 'content/2_paroles_part4_bans.tex'
 regex_search_and_replace(input_file_path, output_file_path)
