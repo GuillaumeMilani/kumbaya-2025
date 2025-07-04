@@ -1,21 +1,35 @@
 \documentclass[a4paper,12pt,twoside]{article}
+\usepackage{etoolbox}
+
+\newtoggle{showcutmarkings}
+\newtoggle{showchords}
+
+\togglefalse{showcutmarkings}
+\toggletrue{showchords}
+
+\iftoggle{showchords}{
 \usepackage[chorded]{songs}
+}{
+\usepackage{songs}
+}
 \usepackage{graphicx}
 \usepackage{lmodern} % Modern font
 \usepackage[utf8]{inputenc}
 \usepackage{multicol}
 
 % Cut markings
-\usepackage[
+\iftoggle{showcutmarkings}{
+\usepackage[%
 	% set width and height to a5 width and height + 6mm
-	width=154truemm, height=216truemm,
+	width=154truemm, height=216truemm,%
 	% use any combination of these options to add different cut markings
-	cam, axes, frame, cross,
+	cam, axes, frame, cross,%
 	% set the type of TeX renderer you use
-	pdftex,
+	pdftex,%
 	% center the contents
-	center
-]{crop}
+	center%
+]{crop}%
+}{}
 
 % Page dimensions
 \usepackage{geometry}
@@ -62,7 +76,7 @@
 %}
 
 % Reduce penalties to allow breaking paragraphs / songs into multiple pages
-% \interlinepenalty=0
+\interlinepenalty=0
 % \vvpenalty=0
 % \ccpenalty=0
 % \vcpenalty=0
@@ -85,7 +99,15 @@
 \usepackage{newunicodechar}
 \newunicodechar{·}{\ensuremath{{\cdot}}}
 
-\newindex{mainindex}{idxfile}
+\renewcommand\rep[1]{%
+  (#1\raise.25ex\hbox{%
+    \fontencoding{OMS}\fontfamily{cmsy}\selectfont\char'002%
+   })%
+}
+\newcommand{\bis}[2]{\textit{#1} \rep{#2}}
+
+% Begin document
+
 \begin{document}
 \newgeometry{
 	left=0mm,
