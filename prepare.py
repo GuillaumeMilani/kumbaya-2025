@@ -65,6 +65,6 @@ def regex_search_and_replace(input_file_path, output_file_path):
 
     print("Search and replace operations completed successfully.")
 
-input_file_path = 'Paroles_part4_bans.md'
-output_file_path = 'content/2_paroles_part4_bans.tex'
+input_file_path = 'Paroles_part4_CAJU.md'
+output_file_path = 'content/2_paroles_part4_caju.tex'
 regex_search_and_replace(input_file_path, output_file_path)

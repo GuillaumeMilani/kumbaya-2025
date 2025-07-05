@@ -69,7 +69,7 @@
 % }%
 % }
 
-\baselineadj=-10pt plus 1pt minus 0pt
+\baselineadj=-6pt plus 1pt minus 0pt
 %\renewcommand{\clineparams}{
 %	\baselineskip=15pt
 %	\lineskiplimit=5pt
@@ -114,7 +114,10 @@
     \centering%
 \end{figure}%
 }
-\newcommand{\accordsize}{2cm}
+
+\let\gtabBAK\gtab
+\newcommand{\sgtab}[3]{\scalebox{#1}{\gtabBAK{#2}{#3}}}
+\renewcommand*\gtab{\sgtab{2}}
 
 % Begin document
 \begin{document}
@@ -124,10 +127,9 @@
 	right=0mm,
 	bottom=0mm}
 
-% TODO Couverture
-% \AddToShipoutPictureBG*{%
-% 	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
-% }
+\AddToShipoutPictureBG*{%
+	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
+}
 \newpage
 \
 \newpage
@@ -145,19 +147,19 @@
 		\input{2_paroles_part2.tex}
 		\input{2_paroles_part3.tex}
 		\input{2_paroles_part4_bans.tex}
-		\input{4_chansons_caju.tex}
+		\input{2_paroles_part4_caju.tex}
 	\end{songs}
 \end{multicols}
-\input{1_1_methodologie.tex}
+\input{3_methodologie.tex}
 \newpage
 \input{4_remerciements.tex}
 \newpage
 \
 \newpage
-% TODO Dos
-% \AddToShipoutPictureBG*{%
-% 	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
-% }
+
+\AddToShipoutPictureBG*{%
+	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
+}
 \
 \end{document}
 
