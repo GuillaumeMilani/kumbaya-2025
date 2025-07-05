@@ -15,6 +15,7 @@
 \usepackage{graphicx}
 \usepackage{lmodern} % Modern font
 \usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
 \usepackage{multicol}
 
 % Cut markings
@@ -106,6 +107,14 @@
 }
 \newcommand{\bis}[2]{\textit{#1} \rep{#2}}
 
+\renewcommand{\thesubsection}{\arabic{subsection}}
+\newcommand{\image}[2]{\begin{figure}[H]%
+    \includegraphics[#1]{#2}%
+    \centering%
+\end{figure}%
+}
+\newcommand{\accordsize}{2cm}
+
 % Begin document
 
 \begin{document}
@@ -115,9 +124,10 @@
 	right=0mm,
 	bottom=0mm}
 
-\AddToShipoutPictureBG*{%
-	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
-}
+% TODO Couverture
+% \AddToShipoutPictureBG*{%
+% 	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
+% }
 \newpage
 \
 \newpage
@@ -128,6 +138,8 @@
 
 % \showindex[2]{Index alphabétique}{mainindex}
 \input{1_avant_propos.tex}
+\newpage
+\input{1_1_methodologie.tex}
 \newpage
 \begin{multicols}{\nbcols}
 	\begin{songs}{}
@@ -141,9 +153,10 @@
 \newpage
 \
 \newpage
-\AddToShipoutPictureBG*{%
-	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
-}
+% TODO Dos
+% \AddToShipoutPictureBG*{%
+% 	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
+% }
 \
 \end{document}
 
