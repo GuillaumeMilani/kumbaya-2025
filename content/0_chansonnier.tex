@@ -101,6 +101,7 @@
 \newunicodechar{·}{\ensuremath{{\cdot}}}
 
 \newindex{allsongs}{allsongs}
+\newindex{louveteaux}{louveteaux}
 \renewcommand\rep[1]{%
   (#1\raise.25ex\hbox{%
     \fontencoding{OMS}\fontfamily{cmsy}\selectfont\char'002%
@@ -122,13 +123,13 @@
 % Begin document
 \begin{document}
 \newgeometry{
-	left=0mm,
-	top=0mm,
-	right=0mm,
-	bottom=0mm}
+    left=0mm,
+    top=0mm,
+    right=0mm,
+    bottom=0mm}
 
 \AddToShipoutPictureBG*{%
-	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
+    \AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{couverture.pdf}}}%
 }
 \newpage
 \
@@ -138,18 +139,23 @@
 \clearpage
 \restoregeometry
 
-\showindex[2]{Index alphabétique}{allsongs}
 \input{1_avant_propos.tex}
 \newpage
+
+\showindex[2]{Index alphabétique}{allsongs}
+\showindex[1]{Compilation branche Louveteaux}{louveteaux}
+
+\newpage
 \begin{multicols}{\nbcols}
-	\begin{songs}{allsongs}
-		\input{2_paroles_part1.tex}
-		\input{2_paroles_part2.tex}
-		\input{2_paroles_part3.tex}
-		\input{2_paroles_part4_bans.tex}
-		\input{2_paroles_part4_caju.tex}
-	\end{songs}
+    \begin{songs}{allsongs,louveteaux}
+        \input{2_paroles_part1.tex}
+        \input{2_paroles_part2.tex}
+        \input{2_paroles_part3.tex}
+        \input{2_paroles_part4_bans.tex}
+        \input{2_paroles_part4_caju.tex}
+    \end{songs}
 \end{multicols}
+\newpage
 \input{3_methodologie.tex}
 \newpage
 \input{4_remerciements.tex}
@@ -158,7 +164,7 @@
 \newpage
 
 \AddToShipoutPictureBG*{%
-	\AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
+    \AtPageLowerLeft{\put(-3mm,-3mm){\includegraphics[width=154truemm,height=216truemm]{dos.pdf}}}%
 }
 \
 \end{document}
