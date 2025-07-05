@@ -100,6 +100,7 @@
 \usepackage{newunicodechar}
 \newunicodechar{·}{\ensuremath{{\cdot}}}
 
+\newindex{allsongs}{allsongs}
 \renewcommand\rep[1]{%
   (#1\raise.25ex\hbox{%
     \fontencoding{OMS}\fontfamily{cmsy}\selectfont\char'002%
@@ -116,7 +117,6 @@
 \newcommand{\accordsize}{2cm}
 
 % Begin document
-
 \begin{document}
 \newgeometry{
 	left=0mm,
@@ -136,15 +136,16 @@
 \clearpage
 \restoregeometry
 
-% \showindex[2]{Index alphabétique}{mainindex}
+\showindex[2]{Index alphabétique}{allsongs}
 \input{1_avant_propos.tex}
 \newpage
 \begin{multicols}{\nbcols}
-	\begin{songs}{}
+	\begin{songs}{allsongs}
 		\input{2_paroles_part1.tex}
 		\input{2_paroles_part2.tex}
 		\input{2_paroles_part3.tex}
 		\input{2_paroles_part4_bans.tex}
+		\input{4_chansons_caju.tex}
 	\end{songs}
 \end{multicols}
 \input{1_1_methodologie.tex}

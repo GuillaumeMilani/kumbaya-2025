@@ -53,6 +53,12 @@ To trigger the workflow, you can create a new tag:
 
 The GitHub Actions workflow will automatically start, compile the LaTeX file, and upload the resulting PDF as an artifact.
 
+# Generate the indexes
+```bash
+texlua songidx.lua content/allsongs.sxd content/allsongs.sbx
+texlua songidx.lua content/bans.sxd content/bans.sbx
+```
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
